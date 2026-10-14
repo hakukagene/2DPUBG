@@ -1,0 +1,13 @@
+{
+  "tool": "built-in image_gen",
+  "purpose": "Weapon-free gameplay sprites; source concepts retained as portraits.",
+  "prompt": "Use case: precise-object-edit. Asset: weapon-free gameplay body sprite for an existing Unity 2D side-scroller. Edit the provided character concept, preserving exactly the character identity, costume, colors, face/helmet, proportions, pixel-art rendering style, right-facing view and full-body idle stance. Remove the handheld firearm completely and reconstruct the small area of clothing it covered. Give the character two empty gloved hands held near waist height in a relaxed ready pose, so a separate aimable weapon sprite can be drawn over them in the game. For the violet mage also remove the glowing energy shield and replace its large projector with an ordinary matching small forearm bracer; retain her hood and mint belt crystal. Preserve the backpack and all other iconic clothing. One figure only. Both boots fully visible. No weapons, no holograms, no energy effects, no text. Eliminate all surrounding haze and background glow: ONLY the opaque character silhouette, clean hard pixel edges and a truly transparent background. Center character, leave small clean transparent margins, do not crop any limb. Keep image palette and original design unchanged. This is not a redesign, only removing baked-in gameplay equipment.",
+  "characters": [
+    "01-neon-runner",
+    "02-forge-guard",
+    "03-ruin-scout",
+    "04-dune-warden",
+    "05-aegis-mage"
+  ],
+  "destination": "Assets/ClimbBattlePrototype/Resources/ClimbBattleArt/Characters/Bodies"
+}

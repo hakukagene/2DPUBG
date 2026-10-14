@@ -1,0 +1,332 @@
+{
+  "clips": [
+    {
+      "pixelsPerUnit": 106.48648648648648,
+      "texture": "01-neon-runner",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "width": 141,
+          "height": 197,
+          "x": 35,
+          "y": 1039,
+          "shoulderX": 0.48936170212765956,
+          "shoulderY": 0.649746192893401
+        },
+        {
+          "width": 105,
+          "height": 198,
+          "x": 254,
+          "y": 1038,
+          "shoulderX": 0.5238095238095238,
+          "shoulderY": 0.6515151515151515
+        },
+        {
+          "width": 146,
+          "height": 197,
+          "x": 451,
+          "y": 1038,
+          "shoulderX": 0.4794520547945205,
+          "shoulderY": 0.6548223350253807
+        },
+        {
+          "width": 137,
+          "height": 197,
+          "x": 672,
+          "y": 1037,
+          "shoulderX": 0.44525547445255476,
+          "shoulderY": 0.6598984771573604
+        },
+        {
+          "width": 134,
+          "height": 197,
+          "x": 883,
+          "y": 1037,
+          "shoulderX": 0.5447761194029851,
+          "shoulderY": 0.6598984771573604
+        },
+        {
+          "width": 105,
+          "height": 196,
+          "x": 1105,
+          "y": 1038,
+          "shoulderX": 0.5047619047619047,
+          "shoulderY": 0.6581632653061225
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 108.64864864864865,
+      "texture": "01-neon-runner",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "width": 151,
+          "height": 204,
+          "x": 29,
+          "y": 805,
+          "shoulderX": 0.5894039735099338,
+          "shoulderY": 0.7009803921568627
+        },
+        {
+          "width": 183,
+          "height": 201,
+          "x": 220,
+          "y": 806,
+          "shoulderX": 0.5683060109289617,
+          "shoulderY": 0.7064676616915423
+        },
+        {
+          "width": 142,
+          "height": 204,
+          "x": 455,
+          "y": 805,
+          "shoulderX": 0.5492957746478874,
+          "shoulderY": 0.7058823529411765
+        },
+        {
+          "width": 185,
+          "height": 182,
+          "x": 638,
+          "y": 823,
+          "shoulderX": 0.5783783783783784,
+          "shoulderY": 0.6703296703296703
+        },
+        {
+          "width": 121,
+          "height": 198,
+          "x": 898,
+          "y": 805,
+          "shoulderX": 0.512396694214876,
+          "shoulderY": 0.696969696969697
+        },
+        {
+          "width": 129,
+          "height": 201,
+          "x": 1103,
+          "y": 806,
+          "shoulderX": 0.5348837209302325,
+          "shoulderY": 0.6915422885572139
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 122,
+      "texture": "01-neon-runner",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "width": 126,
+          "height": 167,
+          "x": 41,
+          "y": 554,
+          "shoulderX": 0.5238095238095238,
+          "shoulderY": 0.6407185628742516
+        },
+        {
+          "width": 115,
+          "height": 198,
+          "x": 260,
+          "y": 575,
+          "shoulderX": 0.5478260869565217,
+          "shoulderY": 0.6818181818181818
+        },
+        {
+          "width": 117,
+          "height": 165,
+          "x": 463,
+          "y": 625,
+          "shoulderX": 0.5128205128205128,
+          "shoulderY": 0.6424242424242425
+        },
+        {
+          "width": 109,
+          "height": 198,
+          "x": 679,
+          "y": 564,
+          "shoulderX": 0.47706422018348627,
+          "shoulderY": 0.6868686868686869
+        },
+        {
+          "width": 111,
+          "height": 183,
+          "x": 889,
+          "y": 553,
+          "shoulderX": 0.5225225225225225,
+          "shoulderY": 0.6502732240437158
+        },
+        {
+          "width": 120,
+          "height": 154,
+          "x": 1096,
+          "y": 553,
+          "shoulderX": 0.5166666666666667,
+          "shoulderY": 0.6103896103896104
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 317.4324324324324,
+      "texture": "01-neon-crouch",
+      "textureWidth": 2172,
+      "frames": [
+        {
+          "width": 330,
+          "height": 444,
+          "x": 20,
+          "y": 98,
+          "shoulderX": 0.4,
+          "shoulderY": 0.65
+        },
+        {
+          "width": 315,
+          "height": 444,
+          "x": 391,
+          "y": 98,
+          "shoulderX": 0.4,
+          "shoulderY": 0.65
+        },
+        {
+          "width": 324,
+          "height": 445,
+          "x": 748,
+          "y": 98,
+          "shoulderX": 0.4,
+          "shoulderY": 0.65
+        },
+        {
+          "width": 299,
+          "height": 446,
+          "x": 1121,
+          "y": 98,
+          "shoulderX": 0.4,
+          "shoulderY": 0.65
+        },
+        {
+          "width": 313,
+          "height": 448,
+          "x": 1464,
+          "y": 98,
+          "shoulderX": 0.4,
+          "shoulderY": 0.65
+        },
+        {
+          "width": 315,
+          "height": 446,
+          "x": 1823,
+          "y": 98,
+          "shoulderX": 0.4,
+          "shoulderY": 0.65
+        }
+      ],
+      "textureHeight": 724
+    },
+    {
+      "pixelsPerUnit": 141.08108108108107,
+      "texture": "01-neon-runner",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "width": 191,
+          "height": 97,
+          "x": 210,
+          "y": 368,
+          "shoulderX": 0.680628272251309,
+          "shoulderY": 0.4020618556701031
+        },
+        {
+          "width": 183,
+          "height": 94,
+          "x": 424,
+          "y": 370,
+          "shoulderX": 0.6830601092896175,
+          "shoulderY": 0.39361702127659576
+        },
+        {
+          "width": 191,
+          "height": 95,
+          "x": 633,
+          "y": 370,
+          "shoulderX": 0.675392670157068,
+          "shoulderY": 0.3894736842105263
+        },
+        {
+          "width": 200,
+          "height": 88,
+          "x": 837,
+          "y": 371,
+          "shoulderX": 0.71,
+          "shoulderY": 0.32954545454545453
+        },
+        {
+          "width": 171,
+          "height": 92,
+          "x": 1057,
+          "y": 368,
+          "shoulderX": 0.672514619883041,
+          "shoulderY": 0.358695652173913
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 141.08108108108107,
+      "texture": "01-neon-runner",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "width": 129,
+          "height": 261,
+          "x": 48,
+          "y": 49,
+          "shoulderX": 0.40310077519379844,
+          "shoulderY": 0.6973180076628352
+        },
+        {
+          "width": 132,
+          "height": 262,
+          "x": 252,
+          "y": 48,
+          "shoulderX": 0.4090909090909091,
+          "shoulderY": 0.6984732824427481
+        },
+        {
+          "width": 133,
+          "height": 261,
+          "x": 461,
+          "y": 48,
+          "shoulderX": 0.41353383458646614,
+          "shoulderY": 0.7011494252873564
+        },
+        {
+          "width": 131,
+          "height": 261,
+          "x": 672,
+          "y": 49,
+          "shoulderX": 0.4122137404580153,
+          "shoulderY": 0.6973180076628352
+        },
+        {
+          "width": 130,
+          "height": 262,
+          "x": 886,
+          "y": 48,
+          "shoulderX": 0.38461538461538464,
+          "shoulderY": 0.6984732824427481
+        },
+        {
+          "width": 127,
+          "height": 260,
+          "x": 1095,
+          "y": 49,
+          "shoulderX": 0.4015748031496063,
+          "shoulderY": 0.7
+        }
+      ],
+      "textureHeight": 1254
+    }
+  ]
+}

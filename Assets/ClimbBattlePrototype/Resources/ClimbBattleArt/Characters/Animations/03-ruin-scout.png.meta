@@ -1,0 +1,1593 @@
+fileFormatVersion: 2
+guid: 166ff5be4fd2ce542bec180d49adcd81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2863305151930634701
+    second: 03-ruin-scout_0
+  - first:
+      213: -4524630280410341820
+    second: 03-ruin-scout_1
+  - first:
+      213: 193888742196019006
+    second: 03-ruin-scout_2
+  - first:
+      213: 4174846259391873619
+    second: 03-ruin-scout_3
+  - first:
+      213: -6520958145264741242
+    second: 03-ruin-scout_4
+  - first:
+      213: -5008782363552340463
+    second: 03-ruin-scout_5
+  - first:
+      213: -7636283026764385833
+    second: 03-ruin-scout_6
+  - first:
+      213: 8231851757229095006
+    second: 03-ruin-scout_7
+  - first:
+      213: 1350294440939455972
+    second: 03-ruin-scout_8
+  - first:
+      213: 6891160450349535710
+    second: 03-ruin-scout_9
+  - first:
+      213: 6019511097457843960
+    second: 03-ruin-scout_10
+  - first:
+      213: -5829910605642874413
+    second: 03-ruin-scout_11
+  - first:
+      213: -5731909826533819440
+    second: 03-ruin-scout_12
+  - first:
+      213: -7589041689582275238
+    second: 03-ruin-scout_13
+  - first:
+      213: 7658278690224301199
+    second: 03-ruin-scout_14
+  - first:
+      213: -8365759569649613340
+    second: 03-ruin-scout_15
+  - first:
+      213: 4709677817109076689
+    second: 03-ruin-scout_16
+  - first:
+      213: -5146400719077544047
+    second: 03-ruin-scout_17
+  - first:
+      213: 159303986124329360
+    second: 03-ruin-scout_18
+  - first:
+      213: 6218130369124499314
+    second: 03-ruin-scout_19
+  - first:
+      213: -5707036260626834727
+    second: 03-ruin-scout_20
+  - first:
+      213: -1776282500561495727
+    second: 03-ruin-scout_21
+  - first:
+      213: 3495295806799114454
+    second: 03-ruin-scout_22
+  - first:
+      213: -5568438127050577153
+    second: 03-ruin-scout_23
+  - first:
+      213: -5485931310230756008
+    second: 03-ruin-scout_24
+  - first:
+      213: 5924092525526852599
+    second: 03-ruin-scout_25
+  - first:
+      213: -9043412570915148914
+    second: 03-ruin-scout_26
+  - first:
+      213: -5766567159691384891
+    second: 03-ruin-scout_27
+  - first:
+      213: 5499481908582070677
+    second: 03-ruin-scout_28
+  - first:
+      213: -5153193657671625342
+    second: 03-ruin-scout_29
+  - first:
+      213: -3262075346078128224
+    second: 03-ruin-scout_30
+  - first:
+      213: 6860377340014758596
+    second: 03-ruin-scout_31
+  - first:
+      213: 7973219458037355583
+    second: 03-ruin-scout_32
+  - first:
+      213: 8496773911917578325
+    second: 03-ruin-scout_33
+  - first:
+      213: -7813209478741707821
+    second: 03-ruin-scout_34
+  - first:
+      213: -2927354543344666086
+    second: 03-ruin-scout_35
+  - first:
+      213: -2065592174360381443
+    second: 03-ruin-scout_36
+  - first:
+      213: -5217454629247754840
+    second: 03-ruin-scout_37
+  - first:
+      213: 7872247765967298193
+    second: 03-ruin-scout_38
+  - first:
+      213: 9208447745024909760
+    second: 03-ruin-scout_39
+  - first:
+      213: -3839985522142093055
+    second: 03-ruin-scout_40
+  - first:
+      213: 1847757117165945080
+    second: 03-ruin-scout_41
+  - first:
+      213: 8348791328500322674
+    second: 03-ruin-scout_42
+  - first:
+      213: 6617292011395503508
+    second: 03-ruin-scout_43
+  - first:
+      213: -5327716776270256305
+    second: 03-ruin-scout_44
+  - first:
+      213: 7717592841635069556
+    second: 03-ruin-scout_45
+  - first:
+      213: -7534851015156783800
+    second: 03-ruin-scout_46
+  - first:
+      213: -4070953156658667132
+    second: 03-ruin-scout_47
+  - first:
+      213: 1350210139348356030
+    second: 03-ruin-scout_48
+  - first:
+      213: 5486194489214980146
+    second: 03-ruin-scout_49
+  - first:
+      213: -373145234414386753
+    second: 03-ruin-scout_50
+  - first:
+      213: 625890452764097194
+    second: 03-ruin-scout_51
+  - first:
+      213: 8356462351158256295
+    second: 03-ruin-scout_52
+  - first:
+      213: -8516154430268982421
+    second: 03-ruin-scout_53
+  - first:
+      213: 5477273169185514747
+    second: 03-ruin-scout_54
+  - first:
+      213: -602588966441054088
+    second: 03-ruin-scout_55
+  - first:
+      213: 5347746936509844051
+    second: 03-ruin-scout_56
+  - first:
+      213: 5794345880357117944
+    second: 03-ruin-scout_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 03-ruin-scout_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1024
+        width: 148
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ee0af722f7348d0800000000000000
+      internalID: -2863305151930634701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1016
+        width: 226
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e5a248bb84531c0800000000000000
+      internalID: -4524630280410341820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1024
+        width: 168
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f7a84a8c4d0b200800000000000000
+      internalID: 193888742196019006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_3
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1026
+        width: 178
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352cbeabd8800f930800000000000000
+      internalID: 4174846259391873619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_4
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 986
+        width: 208
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6841e4ccd17e085a0800000000000000
+      internalID: -6520958145264741242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_5
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1026
+        width: 122
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116a83f5afa3d7ab0800000000000000
+      internalID: -5008782363552340463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 730
+        width: 176
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d13d51cb09760690800000000000000
+      internalID: -7636283026764385833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 795
+        width: 230
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58b0591f896d3270800000000000000
+      internalID: 8231851757229095006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_8
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 797
+        width: 174
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5816ec3a53db210800000000000000
+      internalID: 1350294440939455972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_9
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 813
+        width: 184
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed11e4d2be152af50800000000000000
+      internalID: 6891160450349535710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_10
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 795
+        width: 184
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe1f7d4379998350800000000000000
+      internalID: 6019511097457843960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_11
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 789
+        width: 176
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1cf5e313ff71fa0800000000000000
+      internalID: -5829910605642874413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 759
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db71e8b16a2470b0800000000000000
+      internalID: -5731909826533819440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 485
+        width: 204
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5571d2bace4ea690800000000000000
+      internalID: -7589041689582275238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_14
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 759
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8463c9b4eba74a60800000000000000
+      internalID: 7658278690224301199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_15
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 616
+        width: 212
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5c5bebef9d6eb80800000000000000
+      internalID: -8365759569649613340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_16
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 626
+        width: 166
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dad25f85032c5140800000000000000
+      internalID: 4709677817109076689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_17
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 503
+        width: 284
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f619310df4498b0800000000000000
+      internalID: -5146400719077544047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 744
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0919e30a126f53200800000000000000
+      internalID: 159303986124329360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 744
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ffbba20ac3b4650800000000000000
+      internalID: 6218130369124499314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_20
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 722
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da501512c88cc0b0800000000000000
+      internalID: -5707036260626834727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_21
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 728
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1591a451a706957e0800000000000000
+      internalID: -1776282500561495727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_22
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 742
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d07c257409c18030800000000000000
+      internalID: 3495295806799114454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_23
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 740
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaa86bb60fe8b2b0800000000000000
+      internalID: -5568438127050577153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_24
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 726
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855a08ff98e0ed3b0800000000000000
+      internalID: -5485931310230756008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_25
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 706
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f32398c3ca963250800000000000000
+      internalID: 5924092525526852599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_26
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 544
+        width: 151
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bec494e285f7280800000000000000
+      internalID: -9043412570915148914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_27
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 505
+        width: 188
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7692988b909ffa0800000000000000
+      internalID: -5766567159691384891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_28
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 542
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599b8b988a5125c40800000000000000
+      internalID: 5499481908582070677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_29
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 505
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285dfafcbad2c78b0800000000000000
+      internalID: -5153193657671625342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_30
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 515
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7247681c7cab2d0800000000000000
+      internalID: -3262075346078128224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_31
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 533
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca08b8c7d4f43f50800000000000000
+      internalID: 6860377340014758596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_32
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 538
+        width: 81
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f349c886ad096ae60800000000000000
+      internalID: 7973219458037355583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_33
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 531
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55847a4eada9ae570800000000000000
+      internalID: 8496773911917578325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_34
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 552
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3b2ef0067e19390800000000000000
+      internalID: -7813209478741707821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_35
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 531
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ab0587d82ff57d0800000000000000
+      internalID: -2927354543344666086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_36
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 527
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df73c648cda8553e0800000000000000
+      internalID: -2065592174360381443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_37
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 339
+        width: 209
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad58ff68a0e797b0800000000000000
+      internalID: -5217454629247754840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_38
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 521
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ed75a52a7df3d60800000000000000
+      internalID: 7872247765967298193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 208
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1e4f68f6afacf70800000000000000
+      internalID: 9208447745024909760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_40
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 339
+        width: 216
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101e3124381a5bac0800000000000000
+      internalID: -3839985522142093055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_41
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 503
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f040e7ee4d84a910800000000000000
+      internalID: 1847757117165945080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_42
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 339
+        width: 180
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2719f1fba7ddcd370800000000000000
+      internalID: 8348791328500322674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_43
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 346
+        width: 216
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4955242460855db50800000000000000
+      internalID: 6617292011395503508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_44
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 338
+        width: 160
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47a586c1d52016b0800000000000000
+      internalID: -5327716776270256305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_45
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 416
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e71c6ccc56a1b60800000000000000
+      internalID: 7717592841635069556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_46
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 390
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845a61e4ce4de6790800000000000000
+      internalID: -7534851015156783800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_47
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 389
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481ea104ca11187c0800000000000000
+      internalID: -4070953156658667132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_48
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 359
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb4dffc7f8ecb210800000000000000
+      internalID: 1350210139348356030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_49
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 355
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2305d5222d0e22c40800000000000000
+      internalID: 5486194489214980146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_50
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 368
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1c915e26252daf0800000000000000
+      internalID: -373145234414386753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_51
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 346
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaff49fc0c9fa800800000000000000
+      internalID: 625890452764097194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_52
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 351
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2a6b3eb3e18f370800000000000000
+      internalID: 8356462351158256295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1254
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bb27b8aaa80d980800000000000000
+      internalID: -8516154430268982421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_54
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 328
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4a4137dee230c40800000000000000
+      internalID: 5477273169185514747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_55
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 309
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87016b5178c23a7f0800000000000000
+      internalID: -602588966441054088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_56
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 108
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a4a535183073a40800000000000000
+      internalID: 5347746936509844051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-ruin-scout_57
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 0
+        width: 118
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff1f60e0e6a96050800000000000000
+      internalID: 5794345880357117944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

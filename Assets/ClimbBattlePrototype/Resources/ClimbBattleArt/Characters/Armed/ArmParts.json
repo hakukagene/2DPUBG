@@ -1,0 +1,134 @@
+﻿{
+    "clips":  [
+                  {
+                      "pixelsPerUnit":  100,
+                      "texture":  "ArmParts",
+                      "textureWidth":  1230,
+                      "frames":  [
+                                     {
+                                         "y":  1067,
+                                         "width":  350,
+                                         "height":  155,
+                                         "x":  65
+                                     },
+                                     {
+                                         "y":  1076,
+                                         "width":  195,
+                                         "height":  117,
+                                         "x":  536
+                                     },
+                                     {
+                                         "y":  1070,
+                                         "width":  178,
+                                         "height":  123,
+                                         "x":  966
+                                     }
+                                 ],
+                      "textureHeight":  1278
+                  },
+                  {
+                      "pixelsPerUnit":  100,
+                      "texture":  "ArmParts",
+                      "textureWidth":  1230,
+                      "frames":  [
+                                     {
+                                         "y":  823,
+                                         "width":  350,
+                                         "height":  181,
+                                         "x":  62
+                                     },
+                                     {
+                                         "y":  834,
+                                         "width":  302,
+                                         "height":  128,
+                                         "x":  535
+                                     },
+                                     {
+                                         "y":  824,
+                                         "width":  196,
+                                         "height":  144,
+                                         "x":  967
+                                     }
+                                 ],
+                      "textureHeight":  1278
+                  },
+                  {
+                      "pixelsPerUnit":  100,
+                      "texture":  "ArmParts",
+                      "textureWidth":  1230,
+                      "frames":  [
+                                     {
+                                         "y":  512,
+                                         "width":  353,
+                                         "height":  249,
+                                         "x":  65
+                                     },
+                                     {
+                                         "y":  598,
+                                         "width":  193,
+                                         "height":  114,
+                                         "x":  535
+                                     },
+                                     {
+                                         "y":  587,
+                                         "width":  189,
+                                         "height":  128,
+                                         "x":  971
+                                     }
+                                 ],
+                      "textureHeight":  1278
+                  },
+                  {
+                      "pixelsPerUnit":  100,
+                      "texture":  "ArmParts",
+                      "textureWidth":  1230,
+                      "frames":  [
+                                     {
+                                         "y":  256,
+                                         "width":  357,
+                                         "height":  256,
+                                         "x":  59
+                                     },
+                                     {
+                                         "y":  343,
+                                         "width":  312,
+                                         "height":  121,
+                                         "x":  534
+                                     },
+                                     {
+                                         "y":  344,
+                                         "width":  198,
+                                         "height":  126,
+                                         "x":  971
+                                     }
+                                 ],
+                      "textureHeight":  1278
+                  },
+                  {
+                      "pixelsPerUnit":  100,
+                      "texture":  "ArmParts",
+                      "textureWidth":  1230,
+                      "frames":  [
+                                     {
+                                         "y":  74,
+                                         "width":  350,
+                                         "height":  182,
+                                         "x":  65
+                                     },
+                                     {
+                                         "y":  98,
+                                         "width":  302,
+                                         "height":  114,
+                                         "x":  535
+                                     },
+                                     {
+                                         "y":  86,
+                                         "width":  193,
+                                         "height":  132,
+                                         "x":  970
+                                     }
+                                 ],
+                      "textureHeight":  1278
+                  }
+              ]
+}

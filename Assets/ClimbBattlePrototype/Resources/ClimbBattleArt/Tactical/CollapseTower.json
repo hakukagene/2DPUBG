@@ -1,0 +1,69 @@
+﻿{
+    "frames":  [
+                   {
+                       "y":  862,
+                       "width":  229,
+                       "name":  "Base",
+                       "height":  283,
+                       "x":  93
+                   },
+                   {
+                       "y":  878,
+                       "width":  423,
+                       "name":  "Barrel",
+                       "height":  218,
+                       "x":  414
+                   },
+                   {
+                       "y":  864,
+                       "width":  405,
+                       "name":  "Cover",
+                       "height":  232,
+                       "x":  837
+                   },
+                   {
+                       "y":  488,
+                       "width":  399,
+                       "name":  "TrapA",
+                       "height":  192,
+                       "x":  12
+                   },
+                   {
+                       "y":  558,
+                       "width":  428,
+                       "name":  "TrapB",
+                       "height":  172,
+                       "x":  437
+                   },
+                   {
+                       "y":  469,
+                       "width":  186,
+                       "name":  "Switch",
+                       "height":  300,
+                       "x":  960
+                   },
+                   {
+                       "y":  41,
+                       "width":  249,
+                       "name":  "EffectA",
+                       "height":  394,
+                       "x":  98
+                   },
+                   {
+                       "y":  44,
+                       "width":  278,
+                       "name":  "EffectB",
+                       "height":  392,
+                       "x":  594
+                   },
+                   {
+                       "y":  111,
+                       "width":  331,
+                       "name":  "Ammo",
+                       "height":  202,
+                       "x":  872
+                   }
+               ],
+    "width":  1254,
+    "height":  1254
+}

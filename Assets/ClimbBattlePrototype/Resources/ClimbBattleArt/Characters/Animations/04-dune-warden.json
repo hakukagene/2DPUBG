@@ -1,0 +1,268 @@
+{
+  "clips": [
+    {
+      "pixelsPerUnit": 115.67567567567568,
+      "texture": "04-dune-warden",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "y": 1031,
+          "width": 120,
+          "height": 212,
+          "x": 59
+        },
+        {
+          "y": 1031,
+          "width": 135,
+          "height": 215,
+          "x": 264
+        },
+        {
+          "y": 1031,
+          "width": 134,
+          "height": 214,
+          "x": 473
+        },
+        {
+          "y": 1031,
+          "width": 121,
+          "height": 216,
+          "x": 683
+        },
+        {
+          "y": 1031,
+          "width": 129,
+          "height": 214,
+          "x": 890
+        },
+        {
+          "y": 1031,
+          "width": 126,
+          "height": 214,
+          "x": 1094
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 107.56756756756756,
+      "texture": "04-dune-warden",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "y": 815,
+          "width": 162,
+          "height": 199,
+          "x": 29
+        },
+        {
+          "y": 820,
+          "width": 171,
+          "height": 195,
+          "x": 241
+        },
+        {
+          "y": 803,
+          "width": 171,
+          "height": 210,
+          "x": 455
+        },
+        {
+          "y": 815,
+          "width": 143,
+          "height": 199,
+          "x": 683
+        },
+        {
+          "y": 815,
+          "width": 169,
+          "height": 194,
+          "x": 871
+        },
+        {
+          "y": 815,
+          "width": 147,
+          "height": 198,
+          "x": 1087
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 113.33333333333333,
+      "texture": "04-dune-warden",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "y": 557,
+          "width": 106,
+          "height": 160,
+          "x": 52
+        },
+        {
+          "y": 557,
+          "width": 119,
+          "height": 209,
+          "x": 260
+        },
+        {
+          "y": 635,
+          "width": 106,
+          "height": 168,
+          "x": 472
+        },
+        {
+          "y": 633,
+          "width": 118,
+          "height": 170,
+          "x": 673
+        },
+        {
+          "y": 560,
+          "width": 121,
+          "height": 213,
+          "x": 885
+        },
+        {
+          "y": 556,
+          "width": 132,
+          "height": 160,
+          "x": 1099
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 119.45945945945945,
+      "texture": "04-dune-warden",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "y": 387,
+          "width": 132,
+          "height": 127,
+          "x": 43
+        },
+        {
+          "y": 387,
+          "width": 148,
+          "height": 133,
+          "x": 243
+        },
+        {
+          "y": 387,
+          "width": 146,
+          "height": 125,
+          "x": 456
+        },
+        {
+          "y": 385,
+          "width": 139,
+          "height": 132,
+          "x": 667
+        },
+        {
+          "y": 385,
+          "width": 145,
+          "height": 135,
+          "x": 871
+        },
+        {
+          "y": 384,
+          "width": 138,
+          "height": 135,
+          "x": 1083
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 119.45945945945945,
+      "texture": "04-dune-warden",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "y": 259,
+          "width": 198,
+          "height": 81,
+          "x": 8
+        },
+        {
+          "y": 258,
+          "width": 173,
+          "height": 84,
+          "x": 227
+        },
+        {
+          "y": 259,
+          "width": 196,
+          "height": 85,
+          "x": 427
+        },
+        {
+          "y": 260,
+          "width": 194,
+          "height": 86,
+          "x": 639
+        },
+        {
+          "y": 258,
+          "width": 180,
+          "height": 90,
+          "x": 854
+        },
+        {
+          "y": 259,
+          "width": 190,
+          "height": 85,
+          "x": 1056
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 119.45945945945945,
+      "texture": "04-dune-warden",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "y": 18,
+          "width": 115,
+          "height": 220,
+          "x": 61
+        },
+        {
+          "y": 17,
+          "width": 108,
+          "height": 220,
+          "x": 275
+        },
+        {
+          "y": 17,
+          "width": 108,
+          "height": 220,
+          "x": 480
+        },
+        {
+          "y": 17,
+          "width": 108,
+          "height": 221,
+          "x": 689
+        },
+        {
+          "y": 17,
+          "width": 108,
+          "height": 222,
+          "x": 902
+        },
+        {
+          "y": 17,
+          "width": 107,
+          "height": 221,
+          "x": 1109
+        }
+      ],
+      "textureHeight": 1254
+    }
+  ]
+}

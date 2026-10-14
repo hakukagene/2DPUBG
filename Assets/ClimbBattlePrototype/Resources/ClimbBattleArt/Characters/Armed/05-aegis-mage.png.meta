@@ -1,0 +1,1093 @@
+fileFormatVersion: 2
+guid: 5f6a02382535a4842a6b10ff2dfc1317
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6597106118418102821
+    second: 05-aegis-mage_0
+  - first:
+      213: -7073316536477975330
+    second: 05-aegis-mage_1
+  - first:
+      213: -5294892842361787077
+    second: 05-aegis-mage_2
+  - first:
+      213: -7003981450851147211
+    second: 05-aegis-mage_3
+  - first:
+      213: -7333849115091686515
+    second: 05-aegis-mage_4
+  - first:
+      213: 2031545306798694706
+    second: 05-aegis-mage_5
+  - first:
+      213: 613382688832876525
+    second: 05-aegis-mage_6
+  - first:
+      213: -1401649090576155957
+    second: 05-aegis-mage_7
+  - first:
+      213: 9190801576493495598
+    second: 05-aegis-mage_8
+  - first:
+      213: 158024073942499950
+    second: 05-aegis-mage_9
+  - first:
+      213: -1488241226559245395
+    second: 05-aegis-mage_10
+  - first:
+      213: 4732485537318533119
+    second: 05-aegis-mage_11
+  - first:
+      213: -3858806861001093969
+    second: 05-aegis-mage_12
+  - first:
+      213: 7505168423808479470
+    second: 05-aegis-mage_13
+  - first:
+      213: -4952427275724417431
+    second: 05-aegis-mage_14
+  - first:
+      213: -8761152475156633112
+    second: 05-aegis-mage_15
+  - first:
+      213: 8673024693625585343
+    second: 05-aegis-mage_16
+  - first:
+      213: -2698025066668358194
+    second: 05-aegis-mage_17
+  - first:
+      213: 1054271465180542616
+    second: 05-aegis-mage_18
+  - first:
+      213: 7746770701159394315
+    second: 05-aegis-mage_19
+  - first:
+      213: -1425272603384314877
+    second: 05-aegis-mage_20
+  - first:
+      213: 7106897755093903029
+    second: 05-aegis-mage_21
+  - first:
+      213: -756307951829645644
+    second: 05-aegis-mage_22
+  - first:
+      213: -1415150123012662822
+    second: 05-aegis-mage_23
+  - first:
+      213: -7990109598724700026
+    second: 05-aegis-mage_24
+  - first:
+      213: -2705870534788298197
+    second: 05-aegis-mage_25
+  - first:
+      213: -2169587345120662986
+    second: 05-aegis-mage_26
+  - first:
+      213: 8314329017560696719
+    second: 05-aegis-mage_27
+  - first:
+      213: 2761079997912469793
+    second: 05-aegis-mage_28
+  - first:
+      213: -473305616328429172
+    second: 05-aegis-mage_29
+  - first:
+      213: -2921752844545092218
+    second: 05-aegis-mage_30
+  - first:
+      213: -7830062244353685372
+    second: 05-aegis-mage_31
+  - first:
+      213: -7510543913111508330
+    second: 05-aegis-mage_32
+  - first:
+      213: 8918256136213471698
+    second: 05-aegis-mage_33
+  - first:
+      213: -8106450839548571217
+    second: 05-aegis-mage_34
+  - first:
+      213: 5448423889445222833
+    second: 05-aegis-mage_35
+  - first:
+      213: 3863934811099277466
+    second: 05-aegis-mage_36
+  - first:
+      213: 7761851310284893392
+    second: 05-aegis-mage_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 05-aegis-mage_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1040
+        width: 172
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5022230fe5274a0800000000000000
+      internalID: -6597106118418102821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1039
+        width: 173
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc755b061886dd90800000000000000
+      internalID: -7073316536477975330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 833
+        width: 195
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d644f6303c486b0800000000000000
+      internalID: -5294892842361787077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_3
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1030
+        width: 140
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532a798aafbdcce90800000000000000
+      internalID: -7003981450851147211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_4
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1038
+        width: 148
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ba5a2161fe83a90800000000000000
+      internalID: -7333849115091686515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_5
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1036
+        width: 180
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23129d461bf713c10800000000000000
+      internalID: 2031545306798694706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 831
+        width: 154
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defe14f3e4c238800800000000000000
+      internalID: 613382688832876525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 773
+        width: 214
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca757014975c8ce0800000000000000
+      internalID: -1401649090576155957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_8
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 601
+        width: 190
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25beffb6594c8f70800000000000000
+      internalID: 9190801576493495598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_9
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 824
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e628d49de0a613200800000000000000
+      internalID: 158024073942499950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_10
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 827
+        width: 160
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da338de4d74b85be0800000000000000
+      internalID: -1488241226559245395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_11
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 745
+        width: 188
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff77b8cb58a2da140800000000000000
+      internalID: 4732485537318533119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 592
+        width: 164
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac8031da93c27ac0800000000000000
+      internalID: -3858806861001093969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 586
+        width: 204
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee03598dae6b72860800000000000000
+      internalID: 7505168423808479470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_14
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 809
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9669d7eb1a1754bb0800000000000000
+      internalID: -4952427275724417431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 600
+        width: 190
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9214f0e322a6680800000000000000
+      internalID: -8761152475156633112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_16
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 604
+        width: 148
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe7eb7d106cc5870800000000000000
+      internalID: 8673024693625585343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_17
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 612
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec502222f70be8ad0800000000000000
+      internalID: -2698025066668358194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_18
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 578
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896bae2df4681ae00800000000000000
+      internalID: 1054271465180542616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_19
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 389
+        width: 204
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c620798ee028b60800000000000000
+      internalID: 7746770701159394315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_20
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 415
+        width: 170
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3048e2f5e1a683ce0800000000000000
+      internalID: -1425272603384314877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 416
+        width: 140
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6a463bad5c0a260800000000000000
+      internalID: 7106897755093903029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_22
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 393
+        width: 212
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b60466cced0185f0800000000000000
+      internalID: -756307951829645644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_23
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 409
+        width: 211
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9dafdf5706c5ce0800000000000000
+      internalID: -1415150123012662822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_24
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 417
+        width: 183
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688439347ad6d1190800000000000000
+      internalID: -7990109598724700026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 211
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a4fbdb511d27ad0800000000000000
+      internalID: -2705870534788298197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_26
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 268
+        width: 198
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a66e8fdc314e1e0800000000000000
+      internalID: -2169587345120662986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_27
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 269
+        width: 206
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f878d65b03e626370800000000000000
+      internalID: 8314329017560696719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 268
+        width: 195
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121520811a3515620800000000000000
+      internalID: 2761079997912469793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_29
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 267
+        width: 408
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81fb84bc0b7e69f0800000000000000
+      internalID: -473305616328429172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 22
+        width: 164
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685176b9449d377d0800000000000000
+      internalID: -2921752844545092218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_31
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 15
+        width: 144
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488c91ccfd7065390800000000000000
+      internalID: -7830062244353685372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 214
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a24058a1035c790800000000000000
+      internalID: -7510543913111508330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_33
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 17
+        width: 154
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1a3f674b204cb70800000000000000
+      internalID: 8918256136213471698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_34
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 151
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa15a8749e9108f80800000000000000
+      internalID: -8106450839548571217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_35
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 15
+        width: 115
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9722419a0bc9b40800000000000000
+      internalID: 5448423889445222833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_36
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 17
+        width: 172
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98a6da1d347f9530800000000000000
+      internalID: 3863934811099277466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-aegis-mage_37
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 130
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc6ee484a2a7bb60800000000000000
+      internalID: 7761851310284893392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

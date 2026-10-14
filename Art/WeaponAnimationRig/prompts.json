@@ -1,0 +1,52 @@
+{
+  "mode": "Built-in ImageGen",
+  "bodies": [
+    {
+      "key": "01-neon-runner",
+      "prompt": "Edit this exact game sprite sheet for modular 2D animation rigging. Remove BOTH ARMS and ALL HANDS from EVERY character frame, including shoulder armor, upper arms, forearms, gloves and elbows. Reconstruct the underlying torso/clothing where arms covered it. This is a harmless modular game puppet asset, not an injury: clean rounded shoulder attachment sockets, no wounds. Keep head, face, neck, torso, backpack, legs, boots and all existing leg/body poses. NO ARMS visible anywhere, even prone frames. Do not add new objects or loose arms. Preserve the exact same number and arrangement of frames and their positions, character identity, scale, color palette and pixel art style. Transparent background. No weapons. Output only the edited sprite sheet, no labels. This armless body layer will have separately animated arms added in Unity.",
+      "reference": "Z:/ARProject/2DPUBG/Art/CharacterAnimationSheets/01-neon-runner.png",
+      "source": "C:\\Users\\user\\.codex\\generated_images\\01a132eb-f19e-70a3-b60b-21a09d95c310\\exec-2cb1d882-7656-41fe-a815-15e16fa1562b.png"
+    },
+    {
+      "key": "02-forge-guard",
+      "prompt": "Edit this exact game sprite sheet for modular 2D animation rigging. Remove BOTH ARMS and ALL HANDS from EVERY character frame, including shoulder armor, upper arms, forearms, gloves and elbows. Reconstruct the underlying torso/clothing where arms covered it. This is a harmless modular game puppet asset, not an injury: clean rounded shoulder attachment sockets, no wounds. Keep head, face, neck, torso, backpack, legs, boots and all existing leg/body poses. NO ARMS visible anywhere, even prone frames. Do not add new objects or loose arms. Preserve the exact same number and arrangement of frames and their positions, character identity, scale, color palette and pixel art style. Transparent background. No weapons. Output only the edited sprite sheet, no labels. This armless body layer will have separately animated arms added in Unity.",
+      "reference": "Z:/ARProject/2DPUBG/Art/CharacterAnimationSheets/02-forge-guard.png",
+      "source": "C:\\Users\\user\\.codex\\generated_images\\01a132eb-f19e-70a3-b60b-21a09d95c310\\exec-3ce700e6-7327-4249-b6e2-abc52da0bf30.png"
+    },
+    {
+      "key": "03-ruin-scout",
+      "prompt": "Edit this exact game sprite sheet for modular 2D animation rigging. Remove BOTH ARMS and ALL HANDS from EVERY character frame, including shoulder armor, upper arms, forearms, gloves and elbows. Reconstruct the underlying torso/clothing where arms covered it. This is a harmless modular game puppet asset, not an injury: clean rounded shoulder attachment sockets, no wounds. Keep head, face, neck, torso, backpack, legs, boots and all existing leg/body poses. NO ARMS visible anywhere, even prone frames. Do not add new objects or loose arms. Preserve the exact same number and arrangement of frames and their positions, character identity, scale, color palette and pixel art style. Transparent background. No weapons. Output only the edited sprite sheet, no labels. This armless body layer will have separately animated arms added in Unity.",
+      "reference": "Z:/ARProject/2DPUBG/Art/CharacterAnimationSheets/03-ruin-scout.png",
+      "source": "C:\\Users\\user\\.codex\\generated_images\\01a132eb-f19e-70a3-b60b-21a09d95c310\\exec-33166f10-0348-4b69-944d-5f7ab1f886d8.png"
+    },
+    {
+      "key": "04-dune-warden",
+      "prompt": "Edit this exact game sprite sheet for modular 2D animation rigging. Remove BOTH ARMS and ALL HANDS from EVERY character frame, including shoulder armor, upper arms, forearms, gloves and elbows. Reconstruct the underlying torso/clothing where arms covered it. This is a harmless modular game puppet asset, not an injury: clean rounded shoulder attachment sockets, no wounds. Keep head, face, neck, torso, backpack, legs, boots and all existing leg/body poses. NO ARMS visible anywhere, even prone frames. Do not add new objects or loose arms. Preserve the exact same number and arrangement of frames and their positions, character identity, scale, color palette and pixel art style. Transparent background. No weapons. Output only the edited sprite sheet, no labels. This armless body layer will have separately animated arms added in Unity.",
+      "reference": "Z:/ARProject/2DPUBG/Art/CharacterAnimationSheets/04-dune-warden.png",
+      "source": "C:\\Users\\user\\.codex\\generated_images\\01a132eb-f19e-70a3-b60b-21a09d95c310\\exec-067ed0d4-dbdf-4e43-ad96-844d255e8880.png"
+    },
+    {
+      "key": "05-aegis-mage",
+      "prompt": "Edit this exact game sprite sheet for modular 2D animation rigging. Remove BOTH ARMS and ALL HANDS from EVERY character frame, including shoulder armor, upper arms, forearms, gloves and elbows. Reconstruct the underlying torso/clothing where arms covered it. This is a harmless modular game puppet asset, not an injury: clean rounded shoulder attachment sockets, no wounds. Keep head, face, neck, torso, backpack, legs, boots and all existing leg/body poses. NO ARMS visible anywhere, even prone frames. Do not add new objects or loose arms. Preserve the exact same number and arrangement of frames and their positions, character identity, scale, color palette and pixel art style. Transparent background. No weapons. Output only the edited sprite sheet, no labels. This armless body layer will have separately animated arms added in Unity.",
+      "reference": "Z:/ARProject/2DPUBG/Art/CharacterAnimationSheets/05-aegis-mage.png",
+      "source": "C:\\Users\\user\\.codex\\generated_images\\01a132eb-f19e-70a3-b60b-21a09d95c310\\exec-0d1cadf8-d54e-475a-b906-cf9e464b60ee.png"
+    },
+    {
+      "key": "01-neon-crouch",
+      "prompt": "Edit this exact game sprite sheet for modular 2D animation rigging. Remove BOTH ARMS and ALL HANDS from EVERY character frame, including shoulder armor, upper arms, forearms, gloves and elbows. Reconstruct the underlying torso/clothing where arms covered it. This is a harmless modular game puppet asset, not an injury: clean rounded shoulder attachment sockets, no wounds. Keep head, face, neck, torso, backpack, legs, boots and all existing leg/body poses. NO ARMS visible anywhere, even prone frames. Do not add new objects or loose arms. Preserve the exact same number and arrangement of frames and their positions, character identity, scale, color palette and pixel art style. Transparent background. No weapons. Output only the edited sprite sheet, no labels. This armless body layer will have separately animated arms added in Unity.",
+      "reference": "Z:/ARProject/2DPUBG/Art/CharacterAnimationSheets/01-neon-crouch.png",
+      "source": "C:\\Users\\user\\.codex\\generated_images\\01a132eb-f19e-70a3-b60b-21a09d95c310\\exec-958f5eb1-1289-44cd-8126-0c027f4717ed.png"
+    }
+  ],
+  "arms": {
+    "prompt": "Production modular 2D pixel art game ARM PARTS ATLAS, transparent background, THREE COLUMNS and FIVE ROWS, exactly 15 isolated complete objects. Each row corresponds to one supplied character reference in order: cyan Neon Runner, orange Forge Guard, olive Ruin Scout, gold/navy Dune Warden, violet/ivory Aegis Mage. Each row contains column1 UPPER ARM with matching shoulder sleeve/armor, column2 FOREARM sleeve/armor without hand, column3 CLOSED GLOVED HAND gripping an invisible gun. Isolated harmless costume puppet parts, no injuries or anatomy gore. All parts lie perfectly HORIZONTAL, shoulder/proximal joint on LEFT, elbow/wrist/distal joint on RIGHT; closed gloved hand fingers point RIGHT. Upperarm and forearm are straight short rounded capsules with rounded ends suitable for rotating at joints. Consistent crisp detailed pixel art shading matching references. No other parts, characters, weapons, labels, text, gridlines or shadows. Wide transparent gaps between all 15 objects, evenly arranged in a strict 3 column by 5 row grid. Each upperarm length approximately 180px, forearm 160px, glove 80px. Render only these 15 parts.",
+    "references": [
+      "Z:/ARProject/2DPUBG/Art/CharacterAnimationSheets/01-neon-runner.png",
+      "Z:/ARProject/2DPUBG/Art/CharacterAnimationSheets/02-forge-guard.png",
+      "Z:/ARProject/2DPUBG/Art/CharacterAnimationSheets/03-ruin-scout.png",
+      "Z:/ARProject/2DPUBG/Art/CharacterAnimationSheets/04-dune-warden.png",
+      "Z:/ARProject/2DPUBG/Art/CharacterAnimationSheets/05-aegis-mage.png"
+    ],
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a132eb-f19e-70a3-b60b-21a09d95c310\\exec-2a1f8dd6-cea0-4e10-8c48-69125145cc3e.png"
+  }
+}

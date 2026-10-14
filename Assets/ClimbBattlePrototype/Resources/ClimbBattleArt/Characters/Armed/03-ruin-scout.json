@@ -1,0 +1,340 @@
+{
+  "clips": [
+    {
+      "pixelsPerUnit": 112.97297297297297,
+      "texture": "03-ruin-scout",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "width": 142,
+          "height": 207,
+          "x": 35,
+          "y": 1029,
+          "shoulderX": 0.4507042253521127,
+          "shoulderY": 0.6811594202898551
+        },
+        {
+          "width": 139,
+          "height": 209,
+          "x": 248,
+          "y": 1028,
+          "shoulderX": 0.49640287769784175,
+          "shoulderY": 0.6794258373205742
+        },
+        {
+          "width": 137,
+          "height": 209,
+          "x": 464,
+          "y": 1029,
+          "shoulderX": 0.44525547445255476,
+          "shoulderY": 0.6746411483253588
+        },
+        {
+          "width": 132,
+          "height": 207,
+          "x": 674,
+          "y": 1028,
+          "shoulderX": 0.4621212121212121,
+          "shoulderY": 0.6666666666666666
+        },
+        {
+          "width": 154,
+          "height": 209,
+          "x": 881,
+          "y": 1029,
+          "shoulderX": 0.45454545454545453,
+          "shoulderY": 0.6650717703349283
+        },
+        {
+          "width": 122,
+          "height": 210,
+          "x": 1110,
+          "y": 1028,
+          "shoulderX": 0.4262295081967213,
+          "shoulderY": 0.6666666666666666
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 108.1081081081081,
+      "texture": "03-ruin-scout",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "width": 144,
+          "height": 200,
+          "x": 35,
+          "y": 802,
+          "shoulderX": 0.5486111111111112,
+          "shoulderY": 0.705
+        },
+        {
+          "width": 162,
+          "height": 198,
+          "x": 229,
+          "y": 805,
+          "shoulderX": 0.5925925925925926,
+          "shoulderY": 0.7222222222222222
+        },
+        {
+          "width": 129,
+          "height": 202,
+          "x": 468,
+          "y": 802,
+          "shoulderX": 0.4883720930232558,
+          "shoulderY": 0.7079207920792079
+        },
+        {
+          "width": 147,
+          "height": 187,
+          "x": 662,
+          "y": 816,
+          "shoulderX": 0.5714285714285714,
+          "shoulderY": 0.6951871657754011
+        },
+        {
+          "width": 163,
+          "height": 193,
+          "x": 881,
+          "y": 809,
+          "shoulderX": 0.4662576687116564,
+          "shoulderY": 0.694300518134715
+        },
+        {
+          "width": 131,
+          "height": 205,
+          "x": 1095,
+          "y": 798,
+          "shoulderX": 0.5419847328244275,
+          "shoulderY": 0.7073170731707317
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 110.66666666666667,
+      "texture": "03-ruin-scout",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "width": 119,
+          "height": 150,
+          "x": 46,
+          "y": 557,
+          "shoulderX": 0.44537815126050423,
+          "shoulderY": 0.6
+        },
+        {
+          "width": 107,
+          "height": 201,
+          "x": 258,
+          "y": 560,
+          "shoulderX": 0.4953271028037383,
+          "shoulderY": 0.6766169154228856
+        },
+        {
+          "width": 112,
+          "height": 166,
+          "x": 466,
+          "y": 623,
+          "shoulderX": 0.4642857142857143,
+          "shoulderY": 0.6325301204819277
+        },
+        {
+          "width": 122,
+          "height": 160,
+          "x": 672,
+          "y": 629,
+          "shoulderX": 0.4344262295081967,
+          "shoulderY": 0.625
+        },
+        {
+          "width": 118,
+          "height": 208,
+          "x": 885,
+          "y": 561,
+          "shoulderX": 0.4322033898305085,
+          "shoulderY": 0.6826923076923077
+        },
+        {
+          "width": 115,
+          "height": 150,
+          "x": 1097,
+          "y": 555,
+          "shoulderX": 0.4434782608695652,
+          "shoulderY": 0.5933333333333334
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 121.62162162162161,
+      "texture": "03-ruin-scout",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "width": 112,
+          "height": 143,
+          "x": 49,
+          "y": 357,
+          "shoulderX": 0.42857142857142855,
+          "shoulderY": 0.6083916083916084
+        },
+        {
+          "width": 111,
+          "height": 143,
+          "x": 252,
+          "y": 356,
+          "shoulderX": 0.44144144144144143,
+          "shoulderY": 0.6153846153846154
+        },
+        {
+          "width": 126,
+          "height": 146,
+          "x": 456,
+          "y": 354,
+          "shoulderX": 0.5079365079365079,
+          "shoulderY": 0.6164383561643836
+        },
+        {
+          "width": 151,
+          "height": 139,
+          "x": 645,
+          "y": 357,
+          "shoulderX": 0.5960264900662252,
+          "shoulderY": 0.6258992805755396
+        },
+        {
+          "width": 131,
+          "height": 147,
+          "x": 872,
+          "y": 356,
+          "shoulderX": 0.5419847328244275,
+          "shoulderY": 0.5782312925170068
+        },
+        {
+          "width": 132,
+          "height": 145,
+          "x": 1084,
+          "y": 355,
+          "shoulderX": 0.49242424242424243,
+          "shoulderY": 0.6068965517241379
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 121.62162162162161,
+      "texture": "03-ruin-scout",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "width": 185,
+          "height": 68,
+          "x": 5,
+          "y": 254,
+          "shoulderX": 0.6756756756756757,
+          "shoulderY": 0.3235294117647059
+        },
+        {
+          "width": 183,
+          "height": 68,
+          "x": 219,
+          "y": 254,
+          "shoulderX": 0.6994535519125683,
+          "shoulderY": 0.3235294117647059
+        },
+        {
+          "width": 196,
+          "height": 70,
+          "x": 426,
+          "y": 252,
+          "shoulderX": 0.6989795918367347,
+          "shoulderY": 0.34285714285714286
+        },
+        {
+          "width": 183,
+          "height": 71,
+          "x": 639,
+          "y": 251,
+          "shoulderX": 0.6939890710382514,
+          "shoulderY": 0.352112676056338
+        },
+        {
+          "width": 181,
+          "height": 71,
+          "x": 849,
+          "y": 251,
+          "shoulderX": 0.6961325966850829,
+          "shoulderY": 0.352112676056338
+        },
+        {
+          "width": 184,
+          "height": 71,
+          "x": 1055,
+          "y": 251,
+          "shoulderX": 0.7010869565217391,
+          "shoulderY": 0.352112676056338
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 121.62162162162161,
+      "texture": "03-ruin-scout",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "width": 108,
+          "height": 224,
+          "x": 56,
+          "y": 9,
+          "shoulderX": 0.3333333333333333,
+          "shoulderY": 0.7008928571428571
+        },
+        {
+          "width": 102,
+          "height": 226,
+          "x": 270,
+          "y": 9,
+          "shoulderX": 0.3627450980392157,
+          "shoulderY": 0.6946902654867256
+        },
+        {
+          "width": 104,
+          "height": 226,
+          "x": 477,
+          "y": 9,
+          "shoulderX": 0.36538461538461536,
+          "shoulderY": 0.6946902654867256
+        },
+        {
+          "width": 106,
+          "height": 225,
+          "x": 685,
+          "y": 9,
+          "shoulderX": 0.36792452830188677,
+          "shoulderY": 0.6977777777777778
+        },
+        {
+          "width": 106,
+          "height": 225,
+          "x": 896,
+          "y": 9,
+          "shoulderX": 0.33962264150943394,
+          "shoulderY": 0.6977777777777778
+        },
+        {
+          "width": 107,
+          "height": 225,
+          "x": 1102,
+          "y": 9,
+          "shoulderX": 0.37383177570093457,
+          "shoulderY": 0.6977777777777778
+        }
+      ],
+      "textureHeight": 1254
+    }
+  ]
+}

@@ -6,6 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/ClimbBattlePrototype/Scenes/CB_MainMenu.unity
+    guid: 8a2d4341966c32921765d87c0c635450
+  - enabled: 1
+    path: Assets/ClimbBattlePrototype/Scenes/CB_NeonCity.unity
+    guid: ec8363da0c9a9990a5e7dee5d538ba3f
+  - enabled: 1
+    path: Assets/ClimbBattlePrototype/Scenes/CB_IndustrialLava.unity
+    guid: 9cdf95b7b0561aedbee160da77e7aaa7
+  - enabled: 1
+    path: Assets/ClimbBattlePrototype/Scenes/CB_CollapseTower.unity
+    guid: 040578938ed4c13845e70c4865a63465
+  - enabled: 1
+    path: Assets/ClimbBattlePrototype/Scenes/CB_EgyptPyramid.unity
+    guid: e0c0881986d11edaffb04513fac6be7d
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   m_configObjects:

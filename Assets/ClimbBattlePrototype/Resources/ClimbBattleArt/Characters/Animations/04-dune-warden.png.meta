@@ -1,0 +1,2193 @@
+fileFormatVersion: 2
+guid: 8c31d8c73ed139f4d925e608cf25da80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1237986946580225368
+    second: 04-dune-warden_0
+  - first:
+      213: -7091156315382602957
+    second: 04-dune-warden_1
+  - first:
+      213: -131745733402957266
+    second: 04-dune-warden_2
+  - first:
+      213: 7196884707184723129
+    second: 04-dune-warden_3
+  - first:
+      213: -8808232254302598819
+    second: 04-dune-warden_4
+  - first:
+      213: -8180159033729469353
+    second: 04-dune-warden_5
+  - first:
+      213: -6766419711097450331
+    second: 04-dune-warden_6
+  - first:
+      213: 3187951058575493429
+    second: 04-dune-warden_7
+  - first:
+      213: -6058004611748645948
+    second: 04-dune-warden_8
+  - first:
+      213: 6084115041000905974
+    second: 04-dune-warden_9
+  - first:
+      213: 1661584429669407762
+    second: 04-dune-warden_10
+  - first:
+      213: 777237280973681471
+    second: 04-dune-warden_11
+  - first:
+      213: 6066596388430212825
+    second: 04-dune-warden_12
+  - first:
+      213: 6984222405757429254
+    second: 04-dune-warden_13
+  - first:
+      213: 8305335421791301082
+    second: 04-dune-warden_14
+  - first:
+      213: 5275240698825843778
+    second: 04-dune-warden_15
+  - first:
+      213: -4704157060457548332
+    second: 04-dune-warden_16
+  - first:
+      213: 7521878210644292698
+    second: 04-dune-warden_17
+  - first:
+      213: 2902942560476789453
+    second: 04-dune-warden_18
+  - first:
+      213: -5526739896737202272
+    second: 04-dune-warden_19
+  - first:
+      213: -7303293200615301765
+    second: 04-dune-warden_20
+  - first:
+      213: 7162069376930436950
+    second: 04-dune-warden_21
+  - first:
+      213: -8417479615997814319
+    second: 04-dune-warden_22
+  - first:
+      213: 6796533999654685043
+    second: 04-dune-warden_23
+  - first:
+      213: -5924462520283993601
+    second: 04-dune-warden_24
+  - first:
+      213: 7296747001349733931
+    second: 04-dune-warden_25
+  - first:
+      213: -3168268452594388443
+    second: 04-dune-warden_26
+  - first:
+      213: -7234150822108255999
+    second: 04-dune-warden_27
+  - first:
+      213: 3363791882043657638
+    second: 04-dune-warden_28
+  - first:
+      213: -6832076628014510768
+    second: 04-dune-warden_29
+  - first:
+      213: 113375835422889834
+    second: 04-dune-warden_30
+  - first:
+      213: -7034982750483594856
+    second: 04-dune-warden_31
+  - first:
+      213: -5892036042004651919
+    second: 04-dune-warden_32
+  - first:
+      213: 6796825869042677197
+    second: 04-dune-warden_33
+  - first:
+      213: -1647260490809430176
+    second: 04-dune-warden_34
+  - first:
+      213: -1226232488567808436
+    second: 04-dune-warden_35
+  - first:
+      213: 2652723410945577705
+    second: 04-dune-warden_36
+  - first:
+      213: 4596421428558147388
+    second: 04-dune-warden_37
+  - first:
+      213: 300729746171172370
+    second: 04-dune-warden_38
+  - first:
+      213: 4259453650183754537
+    second: 04-dune-warden_39
+  - first:
+      213: -521032212074891530
+    second: 04-dune-warden_40
+  - first:
+      213: 6913099819670921241
+    second: 04-dune-warden_41
+  - first:
+      213: -1908580239890026929
+    second: 04-dune-warden_42
+  - first:
+      213: 8752393144846077110
+    second: 04-dune-warden_43
+  - first:
+      213: 6382737228494468632
+    second: 04-dune-warden_44
+  - first:
+      213: -8861266795408663796
+    second: 04-dune-warden_45
+  - first:
+      213: 3092522534856227193
+    second: 04-dune-warden_46
+  - first:
+      213: -1970799527784307165
+    second: 04-dune-warden_47
+  - first:
+      213: -1105505587729700950
+    second: 04-dune-warden_48
+  - first:
+      213: 6533758505045947281
+    second: 04-dune-warden_49
+  - first:
+      213: -6070516786248427742
+    second: 04-dune-warden_50
+  - first:
+      213: 8868605633867430948
+    second: 04-dune-warden_51
+  - first:
+      213: -3929705409595719413
+    second: 04-dune-warden_52
+  - first:
+      213: 5547442815260093809
+    second: 04-dune-warden_53
+  - first:
+      213: -3036910504504252394
+    second: 04-dune-warden_54
+  - first:
+      213: 3151583255752138400
+    second: 04-dune-warden_55
+  - first:
+      213: 7695102144528866508
+    second: 04-dune-warden_56
+  - first:
+      213: -1440842794350177805
+    second: 04-dune-warden_57
+  - first:
+      213: 3806367572560730287
+    second: 04-dune-warden_58
+  - first:
+      213: -1147403991523155116
+    second: 04-dune-warden_59
+  - first:
+      213: 2008095795724571826
+    second: 04-dune-warden_60
+  - first:
+      213: 3214607199922764717
+    second: 04-dune-warden_61
+  - first:
+      213: -8398124488401422104
+    second: 04-dune-warden_62
+  - first:
+      213: 1578456112857224044
+    second: 04-dune-warden_63
+  - first:
+      213: 1410942754086144713
+    second: 04-dune-warden_64
+  - first:
+      213: -3348903777644005901
+    second: 04-dune-warden_65
+  - first:
+      213: -8824382043428190587
+    second: 04-dune-warden_66
+  - first:
+      213: -7157362304644289357
+    second: 04-dune-warden_67
+  - first:
+      213: 4132000130718851471
+    second: 04-dune-warden_68
+  - first:
+      213: -4787295221280265680
+    second: 04-dune-warden_69
+  - first:
+      213: -7947464932916013749
+    second: 04-dune-warden_70
+  - first:
+      213: -4809183688063529165
+    second: 04-dune-warden_71
+  - first:
+      213: -6017234869827888345
+    second: 04-dune-warden_72
+  - first:
+      213: -478837737120781981
+    second: 04-dune-warden_73
+  - first:
+      213: 1196235631379771994
+    second: 04-dune-warden_74
+  - first:
+      213: 3805728218691987042
+    second: 04-dune-warden_75
+  - first:
+      213: -4019945326767042707
+    second: 04-dune-warden_76
+  - first:
+      213: -5451424188149700145
+    second: 04-dune-warden_77
+  - first:
+      213: -9076610823844732957
+    second: 04-dune-warden_78
+  - first:
+      213: -8970583516367699244
+    second: 04-dune-warden_79
+  - first:
+      213: 6577797448555275717
+    second: 04-dune-warden_80
+  - first:
+      213: 8830519379115053546
+    second: 04-dune-warden_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 04-dune-warden_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1023
+        width: 190
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d1c7b91963e2110800000000000000
+      internalID: 1237986946580225368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 805
+        width: 232
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3332ad6d6e6279d90800000000000000
+      internalID: -7091156315382602957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1024
+        width: 157
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ae7d714f1fb2ef0800000000000000
+      internalID: -131745733402957266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_3
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1025
+        width: 224
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4cf2da28870e360800000000000000
+      internalID: 7196884707184723129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_4
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1020
+        width: 180
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59c727ce6fd2c580800000000000000
+      internalID: -8808232254302598819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_5
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 732
+        width: 192
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7543a5cf2bc3a7e80800000000000000
+      internalID: -8180159033729469353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_6
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1206
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0d5de6f19d812a0800000000000000
+      internalID: -6766419711097450331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1159
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53909b7e890ed3c20800000000000000
+      internalID: 3187951058575493429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_8
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1166
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c33b0df6e4adeba0800000000000000
+      internalID: -6058004611748645948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1126
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc587f056e1f6450800000000000000
+      internalID: 6084115041000905974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_10
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1130
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cd3ce3c322f0710800000000000000
+      internalID: 1661584429669407762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_11
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1082
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3370a6603d49ca00800000000000000
+      internalID: 777237280973681471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_12
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1030
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9deec08e541e03450800000000000000
+      internalID: 6066596388430212825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708
+        width: 242
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606ee772641fce060800000000000000
+      internalID: 6984222405757429254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 524
+        width: 238
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adde654009a724370800000000000000
+      internalID: 8305335421791301082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_15
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 546
+        width: 220
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244a236577b653940800000000000000
+      internalID: 5275240698825843778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_16
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 805
+        width: 214
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d538c3c31a77beb0800000000000000
+      internalID: -4704157060457548332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_17
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 972
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5434354164136860800000000000000
+      internalID: 7521878210644292698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_18
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 922
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaf498d0e2594820800000000000000
+      internalID: 2902942560476789453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 899
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0affff888531d43b0800000000000000
+      internalID: -5526739896737202272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_20
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 869
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d9cce478d75aa90800000000000000
+      internalID: -7303293200615301765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_21
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 857
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65754ace628c46360800000000000000
+      internalID: 7162069376930436950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_22
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 753
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9db5013ea1f2b80800000000000000
+      internalID: -8417479615997814319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 543
+        width: 182
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3794841c9a3225e50800000000000000
+      internalID: 6796533999654685043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_24
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 779
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff96b591ab418cda0800000000000000
+      internalID: -5924462520283993601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_25
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 773
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ef857ecb0434560800000000000000
+      internalID: 7296747001349733931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_26
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 761
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522f80ae0ac0804d0800000000000000
+      internalID: -3168268452594388443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_27
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 543
+        width: 184
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10923acc7222b9b90800000000000000
+      internalID: -7234150822108255999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_28
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 795
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad0e8305e69eae20800000000000000
+      internalID: 3363791882043657638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_29
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 737
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d42f431869f21a0800000000000000
+      internalID: -6832076628014510768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_30
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 763
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a679e7cb8bac29100800000000000000
+      internalID: 113375835422889834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 741
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891cc6c1678be5e90800000000000000
+      internalID: -7034982750483594856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_32
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 722
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170a388ef684b3ea0800000000000000
+      internalID: -5892036042004651919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_33
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 742
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc57974ed1d235e50800000000000000
+      internalID: 6796825869042677197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_34
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 738
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fa4c8af41c329e0800000000000000
+      internalID: -1647260490809430176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 525
+        width: 142
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e5fda6c0c8bfee0800000000000000
+      internalID: -1226232488567808436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_36
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 724
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e216c433ed50d420800000000000000
+      internalID: 2652723410945577705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_37
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 537
+        width: 172
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fa337bfe4c9cf30800000000000000
+      internalID: 4596421428558147388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_38
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 674
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2161ded5c186c2400800000000000000
+      internalID: 300729746171172370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_39
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 690
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923917cf68e9c1b30800000000000000
+      internalID: 4259453650183754537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_40
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 673
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f67db2b6fbe4c8f0800000000000000
+      internalID: -521032212074891530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_41
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 673
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9106d48a8a340ff50800000000000000
+      internalID: 6913099819670921241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_42
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 650
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e6608426c5385e0800000000000000
+      internalID: -1908580239890026929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_43
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 554
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc4d1d613fb67970800000000000000
+      internalID: 8752393144846077110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_44
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 371
+        width: 198
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816f21f21b9049850800000000000000
+      internalID: 6382737228494468632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_45
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 537
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bd3bf6cc4760580800000000000000
+      internalID: -8861266795408663796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_46
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 529
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979fefd4cd8daea20800000000000000
+      internalID: 3092522534856227193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_47
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 535
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326a8ee654056a4e0800000000000000
+      internalID: -1970799527784307165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 196
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa76922768478a0f0800000000000000
+      internalID: -1105505587729700950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_49
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 513
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19373753eb29caa50800000000000000
+      internalID: 6533758505045947281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_50
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 379
+        width: 170
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227dd98552131cba0800000000000000
+      internalID: -6070516786248427742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_51
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 511
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c32bb06dd931b70800000000000000
+      internalID: 8868605633867430948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_52
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 519
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01cd1d10c1e679c0800000000000000
+      internalID: -3929705409595719413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_53
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 471
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dee5f49d97cfc40800000000000000
+      internalID: 5547442815260093809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_54
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 377
+        width: 189
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6182f548cf9bad5d0800000000000000
+      internalID: -3036910504504252394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_55
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 377
+        width: 202
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aedc27f54cacbb20800000000000000
+      internalID: 3151583255752138400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_56
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 521
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc5dfa41ae7aca60800000000000000
+      internalID: 7695102144528866508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_57
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 367
+        width: 200
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f19399cc19110ce0800000000000000
+      internalID: -1440842794350177805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_58
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 515
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa85c07e32fe2d430800000000000000
+      internalID: 3806367572560730287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_59
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 484
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453a56f162a9310f0800000000000000
+      internalID: -1147403991523155116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_60
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 487
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b45e13ac703edb10800000000000000
+      internalID: 2008095795724571826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_61
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 486
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab3fc377349c9c20800000000000000
+      internalID: 3214607199922764717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_62
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 467
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8f251e54ed37b80800000000000000
+      internalID: -8398124488401422104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_63
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 427
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63166cb87dc7e510800000000000000
+      internalID: 1578456112857224044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_64
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 439
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca47b795fca49310800000000000000
+      internalID: 1410942754086144713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_65
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 366
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5b09ae1cd4681d0800000000000000
+      internalID: -3348903777644005901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_66
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 356
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586802bf84f798580800000000000000
+      internalID: -8824382043428190587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_67
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 854
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bce7eeb7e0fbac90800000000000000
+      internalID: -7157362304644289357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_68
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 366
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f816d530a30d75930800000000000000
+      internalID: 4132000130718851471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_69
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 353
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a2aa44c5c109db0800000000000000
+      internalID: -4787295221280265680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_70
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 347
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45daa040cee4b190800000000000000
+      internalID: -7947464932916013749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_71
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 252
+        width: 193
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fce557ae8524db0800000000000000
+      internalID: -4809183688063529165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_72
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 353
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b90dd34cc7e7ca0800000000000000
+      internalID: -6017234869827888345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_73
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 355
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3692dd57d93da59f0800000000000000
+      internalID: -478837737120781981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 240
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a527e0408f1e99010800000000000000
+      internalID: 1196235631379771994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_75
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 318
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266e0dab6a9a0d430800000000000000
+      internalID: 3805728218691987042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_76
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 202
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f0f8d16094638c0800000000000000
+      internalID: -4019945326767042707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_77
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 140
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc96d517596a854b0800000000000000
+      internalID: -5451424188149700145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 146
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efd440bb86690280800000000000000
+      internalID: -9076610823844732957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_79
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 154
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2cdeee1d5128380800000000000000
+      internalID: -8970583516367699244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_80
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 78
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5ab95cde7094b50800000000000000
+      internalID: 6577797448555275717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-dune-warden_81
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 91
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae11b56d69e4c8a70800000000000000
+      internalID: 8830519379115053546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

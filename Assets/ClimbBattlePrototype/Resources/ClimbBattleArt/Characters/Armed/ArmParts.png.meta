@@ -1,0 +1,1168 @@
+fileFormatVersion: 2
+guid: 65bf616b7137d814c84bd9e1ca47bd06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1157267964632671235
+    second: ArmParts_0
+  - first:
+      213: 7322589541003856994
+    second: ArmParts_1
+  - first:
+      213: 465199592232569257
+    second: ArmParts_2
+  - first:
+      213: 5163227193446340050
+    second: ArmParts_3
+  - first:
+      213: -3624895459813139549
+    second: ArmParts_4
+  - first:
+      213: 8460841770009624995
+    second: ArmParts_5
+  - first:
+      213: 2683614572170388675
+    second: ArmParts_6
+  - first:
+      213: -6127847214654599287
+    second: ArmParts_7
+  - first:
+      213: 8751122723292813483
+    second: ArmParts_8
+  - first:
+      213: -5667276818558987429
+    second: ArmParts_9
+  - first:
+      213: -3940331849621638604
+    second: ArmParts_10
+  - first:
+      213: 6280773652589224445
+    second: ArmParts_11
+  - first:
+      213: 7967486732943476339
+    second: ArmParts_12
+  - first:
+      213: 7549666228522605280
+    second: ArmParts_13
+  - first:
+      213: 7956001597595057971
+    second: ArmParts_14
+  - first:
+      213: -4548687866945106703
+    second: ArmParts_15
+  - first:
+      213: 2972377649571193764
+    second: ArmParts_16
+  - first:
+      213: -8854455148249848521
+    second: ArmParts_17
+  - first:
+      213: -2209058394019335998
+    second: ArmParts_18
+  - first:
+      213: -5443015848985436305
+    second: ArmParts_19
+  - first:
+      213: -8870297495253309918
+    second: ArmParts_20
+  - first:
+      213: 5512720947814046388
+    second: ArmParts_21
+  - first:
+      213: -6888887097206021711
+    second: ArmParts_22
+  - first:
+      213: 9086232774374939779
+    second: ArmParts_23
+  - first:
+      213: 8888750980169388309
+    second: ArmParts_24
+  - first:
+      213: 929129125634015222
+    second: ArmParts_25
+  - first:
+      213: 4718509397895033753
+    second: ArmParts_26
+  - first:
+      213: 7784731953296888196
+    second: ArmParts_27
+  - first:
+      213: -546219044282976423
+    second: ArmParts_28
+  - first:
+      213: -2468223661226046146
+    second: ArmParts_29
+  - first:
+      213: 8658421876607786676
+    second: ArmParts_30
+  - first:
+      213: 6182246520837661491
+    second: ArmParts_31
+  - first:
+      213: 6758906786658556453
+    second: ArmParts_32
+  - first:
+      213: 6160008203097970874
+    second: ArmParts_33
+  - first:
+      213: -4706894612094878392
+    second: ArmParts_34
+  - first:
+      213: 1441810880792824918
+    second: ArmParts_35
+  - first:
+      213: -9188277970576806944
+    second: ArmParts_36
+  - first:
+      213: -4267689933083203730
+    second: ArmParts_37
+  - first:
+      213: 4271294842351010647
+    second: ArmParts_38
+  - first:
+      213: -5247127506483506153
+    second: ArmParts_39
+  - first:
+      213: 2275606324604519659
+    second: ArmParts_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArmParts_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1059
+        width: 462
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb512aeaee80ffe0800000000000000
+      internalID: -1157267964632671235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_1
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1059
+        width: 379
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c868b04601f9560800000000000000
+      internalID: 7322589541003856994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_2
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1042
+        width: 278
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9cdac7098b47600800000000000000
+      internalID: 465199592232569257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 769
+        width: 372
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d59108c6c777a740800000000000000
+      internalID: 5163227193446340050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_4
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 687
+        width: 466
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab59e9e8c8c1bdc0800000000000000
+      internalID: -3624895459813139549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_5
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1010
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1063a23c2fa6570800000000000000
+      internalID: 8460841770009624995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 521
+        width: 413
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c427482c3d1e3520800000000000000
+      internalID: 2683614572170388675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_7
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 727
+        width: 252
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f45accc6385faa0800000000000000
+      internalID: -6127847214654599287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 499
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba897bb50cb327970800000000000000
+      internalID: 8751122723292813483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 471
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b535cf192c9c951b0800000000000000
+      internalID: -5667276818558987429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_10
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 476
+        width: 330
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432f42e3f012159c0800000000000000
+      internalID: -3940331849621638604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_11
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 561
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1a63d2c5ac92750800000000000000
+      internalID: 6280773652589224445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_12
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 557
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376cbb558f2329e60800000000000000
+      internalID: 7967486732943476339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_13
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 515
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea5adb5f6dc5c860800000000000000
+      internalID: 7549666228522605280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_14
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 572
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ff711ec45696e60800000000000000
+      internalID: 7956001597595057971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_15
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 496
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc8b982c70dfd0c0800000000000000
+      internalID: -4548687866945106703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_16
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 444
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3600559b1004920800000000000000
+      internalID: 2972377649571193764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_17
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 531
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73560f0a4f7ae1580800000000000000
+      internalID: -8854455148249848521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_18
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 583
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0f1604819d751e0800000000000000
+      internalID: -2209058394019335998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_19
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 513
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fd6667ce58674b0800000000000000
+      internalID: -5443015848985436305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_20
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 250
+        width: 253
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226a367cc6f56e480800000000000000
+      internalID: -8870297495253309918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_21
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 551
+        width: 223
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba9f409e7e118c40800000000000000
+      internalID: 5512720947814046388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_22
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 535
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b163491fa1c560a0800000000000000
+      internalID: -6888887097206021711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_23
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 258
+        width: 372
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c512f3198c81e70800000000000000
+      internalID: 9086232774374939779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_24
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 361
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511d6edfbef2b5b70800000000000000
+      internalID: 8888750980169388309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_25
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 355
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff72eb540ee4ec00800000000000000
+      internalID: 929129125634015222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_26
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 290
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99330e23c438b7140800000000000000
+      internalID: 4718509397895033753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_27
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 262
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481d4eb577ce80c60800000000000000
+      internalID: 7784731953296888196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_28
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 252
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957b5f75ca07b68f0800000000000000
+      internalID: -546219044282976423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_29
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 262
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d486648ab1fbdd0800000000000000
+      internalID: -2468223661226046146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_30
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 274
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be9dae82d4e82870800000000000000
+      internalID: 8658421876607786676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_31
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 276
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3336c6ca470cbc550800000000000000
+      internalID: 6182246520837661491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_32
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 25
+        width: 407
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a92c889e57ccd50800000000000000
+      internalID: 6758906786658556453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_33
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 416
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab89527d2debc7550800000000000000
+      internalID: 6160008203097970874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_34
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 120
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d72ead940cdaeb0800000000000000
+      internalID: -4706894612094878392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_35
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 78
+        width: 228
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c03f66b57520410800000000000000
+      internalID: 1441810880792824918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_36
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 81
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebe83a0eddac7080800000000000000
+      internalID: -9188277970576806944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_37
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 54
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67a017fd9e16c4c0800000000000000
+      internalID: -4267689933083203730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_38
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 47
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7534a416700b64b30800000000000000
+      internalID: 4271294842351010647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_39
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 17
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7149ed455557e27b0800000000000000
+      internalID: -5247127506483506153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmParts_40
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be44fa245e3949f10800000000000000
+      internalID: 2275606324604519659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

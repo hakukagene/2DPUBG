@@ -1,0 +1,3343 @@
+fileFormatVersion: 2
+guid: c4107fcc447431c449fcf10da6afb399
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 960387884595198669
+    second: 01-neon-runner_0
+  - first:
+      213: 3403333919541576922
+    second: 01-neon-runner_1
+  - first:
+      213: -8106078043589645537
+    second: 01-neon-runner_2
+  - first:
+      213: -8443114624016667250
+    second: 01-neon-runner_3
+  - first:
+      213: -4752570909281473072
+    second: 01-neon-runner_4
+  - first:
+      213: 6225078267827191312
+    second: 01-neon-runner_5
+  - first:
+      213: -9163024412610055554
+    second: 01-neon-runner_6
+  - first:
+      213: -313628566593389763
+    second: 01-neon-runner_7
+  - first:
+      213: -469762825933698636
+    second: 01-neon-runner_8
+  - first:
+      213: 7288635167372479440
+    second: 01-neon-runner_9
+  - first:
+      213: 5030979624656964110
+    second: 01-neon-runner_10
+  - first:
+      213: -11818616198820265
+    second: 01-neon-runner_11
+  - first:
+      213: 7898737686074488728
+    second: 01-neon-runner_12
+  - first:
+      213: 3948468686201951075
+    second: 01-neon-runner_13
+  - first:
+      213: -8756490654832213996
+    second: 01-neon-runner_14
+  - first:
+      213: 4093823039935309201
+    second: 01-neon-runner_15
+  - first:
+      213: -1285501296682866164
+    second: 01-neon-runner_16
+  - first:
+      213: 5362556773098285837
+    second: 01-neon-runner_17
+  - first:
+      213: -1673064744982398739
+    second: 01-neon-runner_18
+  - first:
+      213: -8277154872555137999
+    second: 01-neon-runner_19
+  - first:
+      213: 4393026140499653304
+    second: 01-neon-runner_20
+  - first:
+      213: 731056503620970409
+    second: 01-neon-runner_21
+  - first:
+      213: -5998129999048125858
+    second: 01-neon-runner_22
+  - first:
+      213: -3748400753193174391
+    second: 01-neon-runner_23
+  - first:
+      213: -3956013608838074765
+    second: 01-neon-runner_24
+  - first:
+      213: 5086697531374881920
+    second: 01-neon-runner_25
+  - first:
+      213: 4871240392987147023
+    second: 01-neon-runner_26
+  - first:
+      213: -2142724895406502112
+    second: 01-neon-runner_27
+  - first:
+      213: -4576987184663539897
+    second: 01-neon-runner_28
+  - first:
+      213: -1664259960827644101
+    second: 01-neon-runner_29
+  - first:
+      213: -796904734162462654
+    second: 01-neon-runner_30
+  - first:
+      213: -2115274619938668585
+    second: 01-neon-runner_31
+  - first:
+      213: -6656341156751819763
+    second: 01-neon-runner_32
+  - first:
+      213: -5011646795238176272
+    second: 01-neon-runner_33
+  - first:
+      213: 9218961970082298295
+    second: 01-neon-runner_34
+  - first:
+      213: 8600392745943349119
+    second: 01-neon-runner_35
+  - first:
+      213: 4624059503327979830
+    second: 01-neon-runner_36
+  - first:
+      213: -6029206958430746599
+    second: 01-neon-runner_37
+  - first:
+      213: 3942327329645800120
+    second: 01-neon-runner_38
+  - first:
+      213: -5018121049549655154
+    second: 01-neon-runner_39
+  - first:
+      213: -1468935512164789780
+    second: 01-neon-runner_40
+  - first:
+      213: 959151584713449511
+    second: 01-neon-runner_41
+  - first:
+      213: 4090947482139977936
+    second: 01-neon-runner_42
+  - first:
+      213: 8798385368154078402
+    second: 01-neon-runner_43
+  - first:
+      213: -931068545571417767
+    second: 01-neon-runner_44
+  - first:
+      213: -6007385136633796554
+    second: 01-neon-runner_45
+  - first:
+      213: -1634536418463483193
+    second: 01-neon-runner_46
+  - first:
+      213: 6108110319000216338
+    second: 01-neon-runner_47
+  - first:
+      213: -2346191149454928970
+    second: 01-neon-runner_48
+  - first:
+      213: 6050686893152485326
+    second: 01-neon-runner_49
+  - first:
+      213: -227015251333643858
+    second: 01-neon-runner_50
+  - first:
+      213: -1304340000444777192
+    second: 01-neon-runner_51
+  - first:
+      213: -6513430795519741603
+    second: 01-neon-runner_52
+  - first:
+      213: 5810632585057772393
+    second: 01-neon-runner_53
+  - first:
+      213: -27493548831450159
+    second: 01-neon-runner_54
+  - first:
+      213: -3691756322017240236
+    second: 01-neon-runner_55
+  - first:
+      213: -8554511752867311727
+    second: 01-neon-runner_56
+  - first:
+      213: 843285158065858374
+    second: 01-neon-runner_57
+  - first:
+      213: 8381983702893038164
+    second: 01-neon-runner_58
+  - first:
+      213: 322377788280478008
+    second: 01-neon-runner_59
+  - first:
+      213: -2002467340792642815
+    second: 01-neon-runner_60
+  - first:
+      213: 9221526721273725424
+    second: 01-neon-runner_61
+  - first:
+      213: 2539037283283037062
+    second: 01-neon-runner_62
+  - first:
+      213: -2508277665540060112
+    second: 01-neon-runner_63
+  - first:
+      213: -8195407384073216834
+    second: 01-neon-runner_64
+  - first:
+      213: 8810234892677100241
+    second: 01-neon-runner_65
+  - first:
+      213: 8682174653789268154
+    second: 01-neon-runner_66
+  - first:
+      213: -3388713394350231672
+    second: 01-neon-runner_67
+  - first:
+      213: 6021797621735146408
+    second: 01-neon-runner_68
+  - first:
+      213: 7086038065217071541
+    second: 01-neon-runner_69
+  - first:
+      213: 4687101972887924892
+    second: 01-neon-runner_70
+  - first:
+      213: 8038123067648272620
+    second: 01-neon-runner_71
+  - first:
+      213: -5862100699408382527
+    second: 01-neon-runner_72
+  - first:
+      213: 1268252053539912831
+    second: 01-neon-runner_73
+  - first:
+      213: 2039410896364833137
+    second: 01-neon-runner_74
+  - first:
+      213: -8512732655588845409
+    second: 01-neon-runner_75
+  - first:
+      213: 2922269704479853709
+    second: 01-neon-runner_76
+  - first:
+      213: -7926452479683454890
+    second: 01-neon-runner_77
+  - first:
+      213: 1044709479447109397
+    second: 01-neon-runner_78
+  - first:
+      213: -6531680957587570336
+    second: 01-neon-runner_79
+  - first:
+      213: 2168598190559221768
+    second: 01-neon-runner_80
+  - first:
+      213: 4975999938801846214
+    second: 01-neon-runner_81
+  - first:
+      213: 1940066656247183082
+    second: 01-neon-runner_82
+  - first:
+      213: -6361252831118920834
+    second: 01-neon-runner_83
+  - first:
+      213: 7153655742584291319
+    second: 01-neon-runner_84
+  - first:
+      213: -1227178058586260940
+    second: 01-neon-runner_85
+  - first:
+      213: 645961609902220927
+    second: 01-neon-runner_86
+  - first:
+      213: 3781124599029979254
+    second: 01-neon-runner_87
+  - first:
+      213: 3435067601342078296
+    second: 01-neon-runner_88
+  - first:
+      213: 2822757151813036118
+    second: 01-neon-runner_89
+  - first:
+      213: 2547935401907375243
+    second: 01-neon-runner_90
+  - first:
+      213: -2020261485776922833
+    second: 01-neon-runner_91
+  - first:
+      213: 6289154625464062434
+    second: 01-neon-runner_92
+  - first:
+      213: -3784317022599088281
+    second: 01-neon-runner_93
+  - first:
+      213: 890231778520548686
+    second: 01-neon-runner_94
+  - first:
+      213: 5806292521102096532
+    second: 01-neon-runner_95
+  - first:
+      213: -998136143210832782
+    second: 01-neon-runner_96
+  - first:
+      213: 5972109439594521696
+    second: 01-neon-runner_97
+  - first:
+      213: 4542395090843829136
+    second: 01-neon-runner_98
+  - first:
+      213: 4952828272117852620
+    second: 01-neon-runner_99
+  - first:
+      213: 7567192426295593975
+    second: 01-neon-runner_100
+  - first:
+      213: -1276562210175718073
+    second: 01-neon-runner_101
+  - first:
+      213: 3783092262785254446
+    second: 01-neon-runner_102
+  - first:
+      213: -2627022443341782878
+    second: 01-neon-runner_103
+  - first:
+      213: 6900857586388010932
+    second: 01-neon-runner_104
+  - first:
+      213: 8067505115539814531
+    second: 01-neon-runner_105
+  - first:
+      213: 3048832763883477544
+    second: 01-neon-runner_106
+  - first:
+      213: -2434782970855066207
+    second: 01-neon-runner_107
+  - first:
+      213: -6194063660779504769
+    second: 01-neon-runner_108
+  - first:
+      213: 4728343566623524606
+    second: 01-neon-runner_109
+  - first:
+      213: -3354732775149494279
+    second: 01-neon-runner_110
+  - first:
+      213: -6634257277258373077
+    second: 01-neon-runner_111
+  - first:
+      213: 7038376261842100446
+    second: 01-neon-runner_112
+  - first:
+      213: 1085275306198035143
+    second: 01-neon-runner_113
+  - first:
+      213: -8494292528385772557
+    second: 01-neon-runner_114
+  - first:
+      213: -4498163229288212738
+    second: 01-neon-runner_115
+  - first:
+      213: 6917658505415406078
+    second: 01-neon-runner_116
+  - first:
+      213: 2809789078763381421
+    second: 01-neon-runner_117
+  - first:
+      213: -2326924944487689474
+    second: 01-neon-runner_118
+  - first:
+      213: -7215769327947252726
+    second: 01-neon-runner_119
+  - first:
+      213: -8339957024150504537
+    second: 01-neon-runner_120
+  - first:
+      213: 3463290498904699113
+    second: 01-neon-runner_121
+  - first:
+      213: 8262290999897527014
+    second: 01-neon-runner_122
+  - first:
+      213: -7374489485610457357
+    second: 01-neon-runner_123
+  - first:
+      213: 3269319631328078225
+    second: 01-neon-runner_124
+  - first:
+      213: -1816791314107156002
+    second: 01-neon-runner_125
+  - first:
+      213: 7522054219537439476
+    second: 01-neon-runner_126
+  - first:
+      213: 3891069349541753465
+    second: 01-neon-runner_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 01-neon-runner_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738
+        width: 214
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcab2e351bbf35d00800000000000000
+      internalID: 960387884595198669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1020
+        width: 152
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4405e0b221b3f20800000000000000
+      internalID: 3403333919541576922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_2
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1014
+        width: 228
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bee3a97fc618f80800000000000000
+      internalID: -8106078043589645537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_3
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1162
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8da495abf704da80800000000000000
+      internalID: -8443114624016667250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_4
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1173
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd2c6e20f97b0eb0800000000000000
+      internalID: -4752570909281473072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_5
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1177
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ef7d4e3bbe36650800000000000000
+      internalID: 6225078267827191312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_6
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1018
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72352238d566d080800000000000000
+      internalID: -9163024412610055554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_7
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1188
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b39c8fa74c5abf0800000000000000
+      internalID: -313628566593389763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_8
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 658
+        width: 242
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9c98fd2311b79f0800000000000000
+      internalID: -469762825933698636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_9
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1023
+        width: 168
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db08a0611f662560800000000000000
+      internalID: 7288635167372479440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_10
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1094
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a08e73051a1d540800000000000000
+      internalID: 5030979624656964110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_11
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1073
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e8bbbf70306dff0800000000000000
+      internalID: -11818616198820265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_12
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1076
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897f5708314fd9d60800000000000000
+      internalID: 7898737686074488728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1046
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36312d7a957cbc630800000000000000
+      internalID: 3948468686201951075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_14
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1048
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410c2bfa422ba7680800000000000000
+      internalID: -8756490654832213996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_15
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1034
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19567a46d5e20d830800000000000000
+      internalID: 4093823039935309201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_16
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 493
+        width: 240
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ae9eca16bf82ee0800000000000000
+      internalID: -1285501296682866164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_17
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 497
+        width: 206
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b636c19f0ab6a40800000000000000
+      internalID: 5362556773098285837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_18
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1013
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8381d8a7418c8e0800000000000000
+      internalID: -1673064744982398739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_19
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 785
+        width: 222
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13415766f73a12d80800000000000000
+      internalID: -8277154872555137999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_20
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1016
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2bc71eff927fc30800000000000000
+      internalID: 4393026140499653304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_21
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1004
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a72119440c352a00800000000000000
+      internalID: 731056503620970409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_22
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 714
+        width: 174
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e525f1a9b8c52cca0800000000000000
+      internalID: -5998129999048125858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_23
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 970
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a3d16ff510bfbc0800000000000000
+      internalID: -3748400753193174391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_24
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 937
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e6896259a6919c0800000000000000
+      internalID: -3956013608838074765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 885
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cc47d4474979640800000000000000
+      internalID: 5086697531374881920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_26
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 877
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b7887145f1a9340800000000000000
+      internalID: 4871240392987147023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_27
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 861
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fc8ed6f038342e0800000000000000
+      internalID: -2142724895406502112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_28
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 769
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f4d9cc7664b70c0800000000000000
+      internalID: -4576987184663539897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_29
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 801
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3776fc126c57e8e0800000000000000
+      internalID: -1664259960827644101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_30
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 793
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2485b60dd53d0f4f0800000000000000
+      internalID: -796904734162462654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_31
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 790
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dff72cb0f805a2e0800000000000000
+      internalID: -2115274619938668585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_32
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 777
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cbef71cfcef93a0800000000000000
+      internalID: -6656341156751819763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_33
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 753
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f98a16eacd037ab0800000000000000
+      internalID: -5011646795238176272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_34
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 511
+        width: 220
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b93790511550ff70800000000000000
+      internalID: 9218961970082298295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_35
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 776
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77bcc6b2abba5770800000000000000
+      internalID: 8600392745943349119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_36
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 753
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63922247e95fb2040800000000000000
+      internalID: 4624059503327979830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_37
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 773
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9180c652734f35ca0800000000000000
+      internalID: -6029206958430746599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_38
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 771
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba2ad7a1d5f5b630800000000000000
+      internalID: 3942327329645800120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_39
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 763
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83bea91e7d0c5ab0800000000000000
+      internalID: -5018121049549655154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_40
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 738
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce116773fea4d9be0800000000000000
+      internalID: -1468935512164789780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 757
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7202994d8479f4d00800000000000000
+      internalID: 959151584713449511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_42
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 744
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d86bbb6f07f5c830800000000000000
+      internalID: 4090947482139977936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_43
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 757
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc71d160e42a1a70800000000000000
+      internalID: 8798385368154078402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_44
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 730
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9511daf371e2413f0800000000000000
+      internalID: -931068545571417767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_45
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 747
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6382bf5fb0b71aca0800000000000000
+      internalID: -6007385136633796554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_46
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 742
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca7b0d99c5f059e0800000000000000
+      internalID: -1634536418463483193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_47
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 491
+        width: 164
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213e7e419fd54c450800000000000000
+      internalID: 6108110319000216338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_48
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 738
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3d2998497a07fd0800000000000000
+      internalID: -2346191149454928970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_49
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 742
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf3771ebab58f350800000000000000
+      internalID: 6050686893152485326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_50
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 720
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea189a9e4da79dcf0800000000000000
+      internalID: -227015251333643858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 196
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81df7272ead06ede0800000000000000
+      internalID: -1304340000444777192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_52
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 674
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51b4fb7335ab95a0800000000000000
+      internalID: -6513430795519741603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_53
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 491
+        width: 185
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963ada0dc8383a050800000000000000
+      internalID: 5810632585057772393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_54
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 660
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db594453c25e9ff0800000000000000
+      internalID: -27493548831450159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_55
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 568
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b1cd45f2f34ccc0800000000000000
+      internalID: -3691756322017240236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_56
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 586
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f807f62e4484980800000000000000
+      internalID: -8554511752867311727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_57
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 537
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647efd22263f3bb00800000000000000
+      internalID: 843285158065858374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_58
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 542
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a8d04a4c9c25470800000000000000
+      internalID: 8381983702893038164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_59
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 550
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8391fe1f3e0597400800000000000000
+      internalID: 322377788280478008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_60
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 549
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103cbb5209ec534e0800000000000000
+      internalID: -2002467340792642815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_61
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 546
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f10b4cf1b179ff70800000000000000
+      internalID: 9221526721273725424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_62
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 554
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bee8de4f87c3320800000000000000
+      internalID: 2539037283283037062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_63
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 467
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c407ba0cec03dd0800000000000000
+      internalID: -2508277665540060112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_64
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 532
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcd3b2c760144e80800000000000000
+      internalID: -8195407384073216834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_65
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 496
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d235cdc4fd344a70800000000000000
+      internalID: 8810234892677100241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_66
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 533
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab86205f8d74d7870800000000000000
+      internalID: 8682174653789268154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_67
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 533
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f652c3f1fd8f0d0800000000000000
+      internalID: -3388713394350231672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_68
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 535
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3c0d83809b19350800000000000000
+      internalID: 6021797621735146408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_69
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 533
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9e82ea31aa65260800000000000000
+      internalID: 7086038065217071541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_70
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 520
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c907408396eeb0140800000000000000
+      internalID: 4687101972887924892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_71
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 511
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce86c0c97562d8f60800000000000000
+      internalID: 8038123067648272620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_72
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 508
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5c13ef872a5aea0800000000000000
+      internalID: -5862100699408382527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_73
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 519
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cf7e0f58cb99110800000000000000
+      internalID: 1268252053539912831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_74
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 491
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17903eca7617d4c10800000000000000
+      internalID: 2039410896364833137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_75
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 527
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9852cb80c2bcd980800000000000000
+      internalID: -8512732655588845409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_76
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 473
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c486930dcfd8820800000000000000
+      internalID: 2922269704479853709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_77
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 328
+        width: 162
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658147347759ff190800000000000000
+      internalID: -7926452479683454890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_78
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 512
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f9de78cbd8f7e00800000000000000
+      internalID: 1044709479447109397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_79
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 499
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0614fc086ceca55a0800000000000000
+      internalID: -6531680957587570336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_80
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 509
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80856d88098681e10800000000000000
+      internalID: 2168598190559221768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_81
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 513
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c746a2949d4e0540800000000000000
+      internalID: 4975999938801846214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_82
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 495
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6713e48508cea10800000000000000
+      internalID: 1940066656247183082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_83
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 480
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7375b2e04a48b7a0800000000000000
+      internalID: -6361252831118920834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_84
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 469
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff7b260ff3e64360800000000000000
+      internalID: 7153655742584291319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_85
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 493
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43affcdbe0038fee0800000000000000
+      internalID: -1227178058586260940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_86
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 509
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76e2c869aae6f800800000000000000
+      internalID: 645961609902220927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_87
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 503
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6785ca02ac0497430800000000000000
+      internalID: 3781124599029979254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_88
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 510
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d927d98cfcbaf20800000000000000
+      internalID: 3435067601342078296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_89
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 503
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65862098ca27c2720800000000000000
+      internalID: 2822757151813036118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_90
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 481
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cc45d9fb51c5320800000000000000
+      internalID: 2547935401907375243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_91
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 487
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f271ddae1e696f3e0800000000000000
+      internalID: -2020261485776922833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_92
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 503
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e15a4c7fc0974750800000000000000
+      internalID: 6289154625464062434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_93
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 491
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7677486d7b76b7bc0800000000000000
+      internalID: -3784317022599088281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_94
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 493
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e454b7ef51dba5c00800000000000000
+      internalID: 890231778520548686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_95
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 479
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4983c4ee848149050800000000000000
+      internalID: 5806292521102096532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_96
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 495
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c90725778e522f0800000000000000
+      internalID: -998136143210832782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_97
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 483
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064e9cac4e131e250800000000000000
+      internalID: 5972109439594521696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_98
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 290
+        width: 1063
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093893bb444d90f30800000000000000
+      internalID: 4542395090843829136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_99
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 489
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9a811821bfbb440800000000000000
+      internalID: 4952828272117852620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_100
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 478
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb00644b61140960800000000000000
+      internalID: 7567192426295593975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_101
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 488
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74de9c0fe6db84ee0800000000000000
+      internalID: -1276562210175718073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_102
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 463
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2408db8e5e308430800000000000000
+      internalID: 3783092262785254446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_103
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 491
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a062af9101fa8bd0800000000000000
+      internalID: -2627022443341782878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_104
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 475
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7873a9965c4cf50800000000000000
+      internalID: 6900857586388010932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_105
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 483
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388b56bb82985ff60800000000000000
+      internalID: 8067505115539814531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_106
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 424
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ad8dece31af4a20800000000000000
+      internalID: 3048832763883477544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_107
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 208
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5730db9c9e53ed0800000000000000
+      internalID: -2434782970855066207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_108
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 182
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bf4170be34a0aa0800000000000000
+      internalID: -6194063660779504769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_109
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 23
+        width: 234
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef649980c637e9140800000000000000
+      internalID: 4728343566623524606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_110
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 316
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff9adca0589171d0800000000000000
+      internalID: -3354732775149494279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_111
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 196
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28e678f7226ee3a0800000000000000
+      internalID: -6634257277258373077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_112
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 328
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0e3a25be55da160800000000000000
+      internalID: 7038376261842100446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_113
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 0
+        width: 194
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caef65142caf0f00800000000000000
+      internalID: 1085275306198035143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_114
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 325
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3bf4b33f53e1a80800000000000000
+      internalID: -8494292528385772557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_115
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 320
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef65d8010605391c0800000000000000
+      internalID: -4498163229288212738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 212
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1beb462c5700060800000000000000
+      internalID: 6917658505415406078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_117
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 198
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2a67db7406ef620800000000000000
+      internalID: 2809789078763381421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_118
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 198
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2d0d0771a15bfd0800000000000000
+      internalID: -2326924944487689474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_119
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 202
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c7b8ae6007cdb90800000000000000
+      internalID: -7215769327947252726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_120
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 192
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab3c750645824c80800000000000000
+      internalID: -8339957024150504537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_121
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 178
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e033350c54101030800000000000000
+      internalID: 3463290498904699113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_122
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 128
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e29ccf83ed89a270800000000000000
+      internalID: 8262290999897527014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_123
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 128
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6e55272ec88a990800000000000000
+      internalID: -7374489485610457357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_124
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 81
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199658212e4fe5d20800000000000000
+      internalID: 3269319631328078225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_125
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 101
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9b0a3fce579c6e0800000000000000
+      internalID: -1816791314107156002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_126
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 93
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fad1c88574b36860800000000000000
+      internalID: 7522054219537439476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-neon-runner_127
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 94
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972b8d725fadff530800000000000000
+      internalID: 3891069349541753465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

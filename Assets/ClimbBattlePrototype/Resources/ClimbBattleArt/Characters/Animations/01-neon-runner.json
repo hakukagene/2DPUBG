@@ -1,0 +1,262 @@
+{
+  "clips": [
+    {
+      "pixelsPerUnit": 103.78378378378378,
+      "texture": "01-neon-runner",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "y": 1040,
+          "width": 135,
+          "height": 194,
+          "x": 39
+        },
+        {
+          "y": 1041,
+          "width": 101,
+          "height": 193,
+          "x": 257
+        },
+        {
+          "y": 1041,
+          "width": 139,
+          "height": 191,
+          "x": 455
+        },
+        {
+          "y": 1041,
+          "width": 129,
+          "height": 190,
+          "x": 677
+        },
+        {
+          "y": 1041,
+          "width": 126,
+          "height": 191,
+          "x": 887
+        },
+        {
+          "y": 1041,
+          "width": 98,
+          "height": 192,
+          "x": 1108
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 107.02702702702702,
+      "texture": "01-neon-runner",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "y": 808,
+          "width": 152,
+          "height": 199,
+          "x": 31
+        },
+        {
+          "y": 808,
+          "width": 177,
+          "height": 198,
+          "x": 223
+        },
+        {
+          "y": 808,
+          "width": 140,
+          "height": 200,
+          "x": 459
+        },
+        {
+          "y": 828,
+          "width": 179,
+          "height": 177,
+          "x": 642
+        },
+        {
+          "y": 808,
+          "width": 118,
+          "height": 195,
+          "x": 898
+        },
+        {
+          "y": 808,
+          "width": 124,
+          "height": 197,
+          "x": 1105
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 118,
+      "texture": "01-neon-runner",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "y": 556,
+          "width": 116,
+          "height": 165,
+          "x": 46
+        },
+        {
+          "y": 578,
+          "width": 118,
+          "height": 194,
+          "x": 263
+        },
+        {
+          "y": 630,
+          "width": 124,
+          "height": 160,
+          "x": 465
+        },
+        {
+          "y": 569,
+          "width": 112,
+          "height": 190,
+          "x": 677
+        },
+        {
+          "y": 556,
+          "width": 108,
+          "height": 177,
+          "x": 890
+        },
+        {
+          "y": 556,
+          "width": 116,
+          "height": 148,
+          "x": 1100
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 312.56756756756755,
+      "texture": "01-neon-crouch",
+      "textureWidth": 2172,
+      "frames": [
+        {
+          "y": 100,
+          "width": 348,
+          "height": 425,
+          "x": 23
+        },
+        {
+          "y": 99,
+          "width": 311,
+          "height": 431,
+          "x": 396
+        },
+        {
+          "y": 101,
+          "width": 321,
+          "height": 434,
+          "x": 755
+        },
+        {
+          "y": 101,
+          "width": 299,
+          "height": 439,
+          "x": 1128
+        },
+        {
+          "y": 101,
+          "width": 309,
+          "height": 441,
+          "x": 1476
+        },
+        {
+          "y": 101,
+          "width": 308,
+          "height": 438,
+          "x": 1834
+        }
+      ],
+      "textureHeight": 724
+    },
+    {
+      "pixelsPerUnit": 138.9189189189189,
+      "texture": "01-neon-runner",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "y": 370,
+          "width": 192,
+          "height": 93,
+          "x": 215
+        },
+        {
+          "y": 372,
+          "width": 191,
+          "height": 90,
+          "x": 427
+        },
+        {
+          "y": 370,
+          "width": 191,
+          "height": 93,
+          "x": 636
+        },
+        {
+          "y": 373,
+          "width": 203,
+          "height": 85,
+          "x": 841
+        },
+        {
+          "y": 371,
+          "width": 183,
+          "height": 87,
+          "x": 1062
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 138.9189189189189,
+      "texture": "01-neon-runner",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "y": 50,
+          "width": 119,
+          "height": 257,
+          "x": 55
+        },
+        {
+          "y": 50,
+          "width": 127,
+          "height": 257,
+          "x": 256
+        },
+        {
+          "y": 50,
+          "width": 127,
+          "height": 257,
+          "x": 465
+        },
+        {
+          "y": 50,
+          "width": 127,
+          "height": 257,
+          "x": 674
+        },
+        {
+          "y": 50,
+          "width": 124,
+          "height": 257,
+          "x": 889
+        },
+        {
+          "y": 50,
+          "width": 119,
+          "height": 257,
+          "x": 1100
+        }
+      ],
+      "textureHeight": 1254
+    }
+  ]
+}

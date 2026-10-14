@@ -1,0 +1,340 @@
+{
+  "clips": [
+    {
+      "pixelsPerUnit": 116.75675675675676,
+      "texture": "04-dune-warden",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "width": 115,
+          "height": 213,
+          "x": 57,
+          "y": 1030,
+          "shoulderX": 0.391304347826087,
+          "shoulderY": 0.6431924882629108
+        },
+        {
+          "width": 137,
+          "height": 217,
+          "x": 263,
+          "y": 1029,
+          "shoulderX": 0.36496350364963503,
+          "shoulderY": 0.6359447004608295
+        },
+        {
+          "width": 136,
+          "height": 216,
+          "x": 471,
+          "y": 1029,
+          "shoulderX": 0.375,
+          "shoulderY": 0.6388888888888888
+        },
+        {
+          "width": 121,
+          "height": 217,
+          "x": 681,
+          "y": 1030,
+          "shoulderX": 0.4297520661157025,
+          "shoulderY": 0.6359447004608295
+        },
+        {
+          "width": 134,
+          "height": 216,
+          "x": 888,
+          "y": 1029,
+          "shoulderX": 0.39552238805970147,
+          "shoulderY": 0.6388888888888888
+        },
+        {
+          "width": 128,
+          "height": 216,
+          "x": 1093,
+          "y": 1030,
+          "shoulderX": 0.4609375,
+          "shoulderY": 0.6342592592592593
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 108.1081081081081,
+      "texture": "04-dune-warden",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "width": 148,
+          "height": 200,
+          "x": 29,
+          "y": 814,
+          "shoulderX": 0.581081081081081,
+          "shoulderY": 0.665
+        },
+        {
+          "width": 162,
+          "height": 197,
+          "x": 241,
+          "y": 820,
+          "shoulderX": 0.6172839506172839,
+          "shoulderY": 0.6649746192893401
+        },
+        {
+          "width": 169,
+          "height": 211,
+          "x": 454,
+          "y": 803,
+          "shoulderX": 0.5798816568047337,
+          "shoulderY": 0.6872037914691943
+        },
+        {
+          "width": 134,
+          "height": 202,
+          "x": 682,
+          "y": 812,
+          "shoulderX": 0.5597014925373134,
+          "shoulderY": 0.6683168316831684
+        },
+        {
+          "width": 163,
+          "height": 195,
+          "x": 870,
+          "y": 815,
+          "shoulderX": 0.5705521472392638,
+          "shoulderY": 0.6615384615384615
+        },
+        {
+          "width": 147,
+          "height": 200,
+          "x": 1087,
+          "y": 813,
+          "shoulderX": 0.5850340136054422,
+          "shoulderY": 0.67
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 114.66666666666667,
+      "texture": "04-dune-warden",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "width": 108,
+          "height": 162,
+          "x": 51,
+          "y": 554,
+          "shoulderX": 0.4166666666666667,
+          "shoulderY": 0.5864197530864198
+        },
+        {
+          "width": 120,
+          "height": 211,
+          "x": 259,
+          "y": 553,
+          "shoulderX": 0.49166666666666664,
+          "shoulderY": 0.6824644549763034
+        },
+        {
+          "width": 106,
+          "height": 171,
+          "x": 469,
+          "y": 632,
+          "shoulderX": 0.42452830188679247,
+          "shoulderY": 0.631578947368421
+        },
+        {
+          "width": 112,
+          "height": 172,
+          "x": 674,
+          "y": 630,
+          "shoulderX": 0.45535714285714285,
+          "shoulderY": 0.622093023255814
+        },
+        {
+          "width": 110,
+          "height": 214,
+          "x": 885,
+          "y": 558,
+          "shoulderX": 0.42727272727272725,
+          "shoulderY": 0.6728971962616822
+        },
+        {
+          "width": 112,
+          "height": 162,
+          "x": 1098,
+          "y": 553,
+          "shoulderX": 0.36607142857142855,
+          "shoulderY": 0.5802469135802469
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 121.08108108108108,
+      "texture": "04-dune-warden",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "width": 131,
+          "height": 130,
+          "x": 43,
+          "y": 386,
+          "shoulderX": 0.46564885496183206,
+          "shoulderY": 0.5461538461538461
+        },
+        {
+          "width": 150,
+          "height": 134,
+          "x": 241,
+          "y": 385,
+          "shoulderX": 0.56,
+          "shoulderY": 0.5447761194029851
+        },
+        {
+          "width": 145,
+          "height": 127,
+          "x": 453,
+          "y": 385,
+          "shoulderX": 0.5655172413793104,
+          "shoulderY": 0.5748031496062992
+        },
+        {
+          "width": 139,
+          "height": 133,
+          "x": 666,
+          "y": 383,
+          "shoulderX": 0.539568345323741,
+          "shoulderY": 0.556390977443609
+        },
+        {
+          "width": 134,
+          "height": 138,
+          "x": 871,
+          "y": 383,
+          "shoulderX": 0.582089552238806,
+          "shoulderY": 0.5362318840579711
+        },
+        {
+          "width": 136,
+          "height": 135,
+          "x": 1081,
+          "y": 383,
+          "shoulderX": 0.5514705882352942,
+          "shoulderY": 0.5555555555555556
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 121.08108108108108,
+      "texture": "04-dune-warden",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "width": 185,
+          "height": 84,
+          "x": 7,
+          "y": 257,
+          "shoulderX": 0.6648648648648648,
+          "shoulderY": 0.35714285714285715
+        },
+        {
+          "width": 173,
+          "height": 84,
+          "x": 225,
+          "y": 257,
+          "shoulderX": 0.6647398843930635,
+          "shoulderY": 0.35714285714285715
+        },
+        {
+          "width": 183,
+          "height": 86,
+          "x": 426,
+          "y": 257,
+          "shoulderX": 0.6775956284153005,
+          "shoulderY": 0.3488372093023256
+        },
+        {
+          "width": 185,
+          "height": 89,
+          "x": 637,
+          "y": 257,
+          "shoulderX": 0.6972972972972973,
+          "shoulderY": 0.33707865168539325
+        },
+        {
+          "width": 177,
+          "height": 90,
+          "x": 853,
+          "y": 256,
+          "shoulderX": 0.6892655367231638,
+          "shoulderY": 0.34444444444444444
+        },
+        {
+          "width": 183,
+          "height": 86,
+          "x": 1053,
+          "y": 257,
+          "shoulderX": 0.6666666666666666,
+          "shoulderY": 0.3488372093023256
+        }
+      ],
+      "textureHeight": 1254
+    },
+    {
+      "pixelsPerUnit": 121.08108108108108,
+      "texture": "04-dune-warden",
+      "textureWidth": 1254,
+      "frames": [
+        {
+          "width": 119,
+          "height": 222,
+          "x": 59,
+          "y": 16,
+          "shoulderX": 0.31092436974789917,
+          "shoulderY": 0.6486486486486487
+        },
+        {
+          "width": 114,
+          "height": 224,
+          "x": 272,
+          "y": 14,
+          "shoulderX": 0.3157894736842105,
+          "shoulderY": 0.6517857142857143
+        },
+        {
+          "width": 115,
+          "height": 224,
+          "x": 479,
+          "y": 14,
+          "shoulderX": 0.3217391304347826,
+          "shoulderY": 0.6517857142857143
+        },
+        {
+          "width": 113,
+          "height": 224,
+          "x": 687,
+          "y": 14,
+          "shoulderX": 0.35398230088495575,
+          "shoulderY": 0.6517857142857143
+        },
+        {
+          "width": 115,
+          "height": 224,
+          "x": 899,
+          "y": 14,
+          "shoulderX": 0.3565217391304348,
+          "shoulderY": 0.6517857142857143
+        },
+        {
+          "width": 111,
+          "height": 224,
+          "x": 1107,
+          "y": 14,
+          "shoulderX": 0.3783783783783784,
+          "shoulderY": 0.6517857142857143
+        }
+      ],
+      "textureHeight": 1254
+    }
+  ]
+}
